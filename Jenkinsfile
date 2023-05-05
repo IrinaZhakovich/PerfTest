@@ -20,13 +20,13 @@ node {
 
  sh "mkdir /tmp/reports"
 
- sh "C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
+ sh """C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
 
       sh "jmeter -Jjmeter.save.saveservice.output_format=xml
 
           -n -t app/templates/Task2_Test_Plan2.jmx/JMeter.jmx
 
-            -l /tmp/reports/JMeter.jtl -e -o /tmp/reports/HtmlReport"
+            -l /tmp/reports/JMeter.jtl -e -o /tmp/reports/HtmlReport"""
 
  }
 
