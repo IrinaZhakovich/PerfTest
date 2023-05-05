@@ -1,10 +1,10 @@
 node {
 
- stage('clone git repo'){
+//  stage('clone git repo'){
 
- git 'https://github.com/IrinaZhakovich/PerfTest.git'
+//  git 'https://github.com/IrinaZhakovich/PerfTest.git'
 
- }
+//  }
 
  
 
