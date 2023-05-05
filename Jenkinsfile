@@ -26,13 +26,13 @@ node {
 
  
 
- stage('publish results'){
+//  stage('publish results'){
 
- sh "mv /tmp/reports/* $WORKSPACE/$BUILD_NUMBER/"
+//  sh "mv /tmp/reports/* $WORKSPACE/$BUILD_NUMBER/"
 
- archiveArtifacts artifacts: '$WORKSPACE/$BUILD_NUMBER/JMeter.jtl, $WORKSPACE/$BUILD_NUMBER/HtmlReport/index.html'
+//  archiveArtifacts artifacts: '$WORKSPACE/$BUILD_NUMBER/JMeter.jtl, $WORKSPACE/$BUILD_NUMBER/HtmlReport/index.html'
 
-    } 
+//     } 
 
   }
 // test
