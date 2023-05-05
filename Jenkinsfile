@@ -8,7 +8,7 @@ node {
 
  
 
- stage("configure") {
+ stage('configure') {
 
         sh "mkdir $WORKSPACE/$BUILD_NUMBER/"
 
