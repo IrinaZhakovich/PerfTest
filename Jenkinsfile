@@ -2,7 +2,7 @@ node {
 
  stage('clone git repo'){
 
- git 'https://github.com/IrinaZhakovich/PerfTest/app.git'
+ git 'https://github.com/IrinaZhakovich/PerfTest'
 
  }
 
