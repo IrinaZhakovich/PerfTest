@@ -19,11 +19,11 @@ node {
  
  stage('run test'){
 
- sh "mkdir /tmp/reports"
+//  sh "mkdir /tmp/reports"
 
  sh "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
 
-      sh "jmeter -Jjmeter.save.saveservice.output_format=xml -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/JMeter1.jtl -e -o C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/HTML_reports/HtmlReport1"
+      sh "jmeter -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/Logs123.jtl -e -o C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/HtmlReport1"
 
  }
 
