@@ -1,43 +1,38 @@
-node {
+pipeline {
+    agent any
 
-//  stage('clone git repo'){
+    stages {
+        stage('Checkout') {
+            steps {
+                // Clone your Git repository
+                git branch: 'main', url: 'https://github.com/OliaMychko/JmeterReport.git'
+            }
+        }
 
-//  git 'https://github.com/IrinaZhakovich/PerfTest.git'
+        stage('Build') {
+            steps {
+                // Set the CSP property to enable JavaScript in the Jenkins UI
+                script {
+                    System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "")
+                }
+                
+                // Run your JMeter script using the 'jmeter' command
+                // with appropriate options and parameters, including the output format property
+                timeout(time: 10, unit: 'MINUTES') {
+                    sh 'jmeter -Jjmeter.save.saveservice.output_format=csv -Jjmeter.save.saveservice.print_field_names=true -n -t ${WORKSPACE}/MyTestPlanCorrected.jmx -l ${WORKSPACE}/results.jtl -Jusers=5'
+                }
 
-//  }
+            }
+        }
 
- 
+        stage('Publish Report') {
+            steps {
+                // Convert JMeter test results to an HTML report
+                sh 'jmeter -g ${WORKSPACE}/results.jtl -o ${WORKSPACE}/html-report'
 
-//  stage('configure') {
-
-//         sh "mkdir $WORKSPACE/$BUILD_NUMBER/"
-
-//     }
-
- 
-
- 
- stage('run test'){
-
-//  sh "mkdir /tmp/reports"
-
- bat "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
-
-      bat "jmeter -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/Logs123.jtl -e -o C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/HtmlReport1"
-
- }
-
- 
-
-//  stage('publish results'){
-
-//  sh "mv /tmp/reports/* $WORKSPACE/$BUILD_NUMBER/"
-
-//  archiveArtifacts artifacts: '$WORKSPACE/$BUILD_NUMBER/JMeter.jtl, $WORKSPACE/$BUILD_NUMBER/HtmlReport/index.html'
-
-//     } 
-
-  }
-
-// test
-
+                // Archive the HTML report as an artifact in Jenkins
+                archiveArtifacts artifacts: 'html-report/**/*', fingerprint: true
+            }
+        }
+    }
+}
