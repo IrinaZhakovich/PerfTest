@@ -28,11 +28,11 @@ node {
 
  sh "mkdir /tmp/reports"
 
- sh "cd C:\Tools\apache-jmeter-5.5\apache-jmeter-5.5/bin"
+ sh "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
 
       sh "jmeter -Jjmeter.save.saveservice.output_format=xml
 
-          -n -t C:\Tools\apache-jmeter-5.5\apache-jmeter-5.5\bin\templates\Task2_Test_Plan2.jmx
+          -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx
 
             -l /tmp/reports/JMeter.jtl -e -o /tmp/reports/HtmlReport"
 
