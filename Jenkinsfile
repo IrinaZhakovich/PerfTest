@@ -21,9 +21,9 @@ node {
 
 //  sh "mkdir /tmp/reports"
 
- sh "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
+ bat "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
 
-      sh "jmeter -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/Logs123.jtl -e -o C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/HtmlReport1"
+      bat "jmeter -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/Logs123.jtl -e -o C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/HtmlReport1"
 
  }
 
