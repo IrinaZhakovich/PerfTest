@@ -23,7 +23,7 @@ node {
 
  sh "cd C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin"
 
-      sh "jmeter -Jjmeter.save.saveservice.output_format=xml -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l /tmp/reports/JMeter.jtl -e -o /tmp/reports/HtmlReport"
+      sh "jmeter -Jjmeter.save.saveservice.output_format=xml -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx -l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/JMeter1.jtl -e -o C:\Tools\apache-jmeter-5.5\apache-jmeter-5.5\bin\HTML_reports\HtmlReport1"
 
  }
 
