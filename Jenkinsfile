@@ -16,13 +16,6 @@ node {
 
  
 
- stage('run test'){
-
-//  sh "mkdir /tmp/reports"
-
-//  sh "C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/jmeter -n -t C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/templates/Task2_Test_Plan2.jmx-l C:/Tools/apache-jmeter-5.5/apache-jmeter-5.5/bin/TestResults05.5.jtl"
-
-//  }
  
  stage('run test'){
 
@@ -45,5 +38,6 @@ node {
 //     } 
 
   }
+
 // test
 
