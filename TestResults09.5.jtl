@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+</testResults>
+1683372804399,23,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,16,1,http://localhost:8080/actuator/health/ping,23,0,1
+1683372804399,29,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,21,0,http://localhost:8080/actuator/health/ping,28,0,1
+1683372804410,52,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,26,2,http://localhost:8080/api/v1/store/DEFAULT,51,0,1
+1683372804403,59,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,26,2,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,59,0,1
+1683372804403,59,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,24,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,59,0,1
+1683372804399,76,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,23,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,76,0,1
+1683372804419,59,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,22,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,56,0,1
+1683372804404,77,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,21,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,77,0,2
+1683372804414,67,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,21,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,67,0,5
+1683372804430,62,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,19,2,http://localhost:8080/api/v1/product/50/price/,62,0,1
+1683372804425,67,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,19,2,http://localhost:8080/api/v1/product/1/price/,67,0,17
+1683372804445,51,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,17,2,http://localhost:8080/api/v1/product/50/price/,47,0,1
+1683372804429,73,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,16,2,http://localhost:8080/api/v1/product/52/price/,73,0,2
+1683372804421,85,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,15,2,http://localhost:8080/api/v1/product/51/price/,83,0,23
+1683372804446,66,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,14,2,http://localhost:8080/api/v1/product/1/price/,65,0,2
+1683372804403,110,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,14,2,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,110,0,1
+1683372804419,96,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,12,2,http://localhost:8080/api/v1/product/51/price/,96,0,1
+1683372804411,131,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,11,2,http://localhost:8080/api/v1/product/52/price/,131,0,1
+1683372804457,85,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,11,2,http://localhost:8080/api/v1/product/51/price/,85,0,2
+1683372804407,135,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,11,2,http://localhost:8080/api/v1/store/DEFAULT,135,0,2
+1683372804450,95,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,8,2,http://localhost:8080/api/v1/product/52/price/,72,0,6
+1683372804409,136,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,8,2,http://localhost:8080/api/v1/product/50/price/,136,0,4
+1683372804450,129,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,6,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,129,0,3
+1683372804425,158,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,5,2,http://localhost:8080/api/v1/product/50/price/,158,0,1
+1683372804429,162,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,4,2,http://localhost:8080/api/v1/product/52/price/,162,0,1
+1683372804428,163,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,4,2,http://localhost:8080/api/v1/product/1/price/,163,0,0
+1683372804550,57,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,28,2,http://localhost:8080/actuator/health/ping,57,0,1
+1683372804562,45,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,28,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,45,0,0
+1683372804552,59,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,26,2,http://localhost:8080/api/v1/store/DEFAULT,59,0,1
+1683372804565,56,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,25,2,http://localhost:8080/api/v1/product/50/price/,55,0,1
+1683372804551,70,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,25,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,70,0,1
+1683372804552,69,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,25,2,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,59,0,1
+1683372804559,71,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,22,2,http://localhost:8080/api/v1/product/51/price/,64,0,2
+1683372804426,205,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,2,2,http://localhost:8080/api/v1/product/51/price/,205,0,1
+1683372804416,217,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,1,2,http://localhost:8080/api/v1/product/1/price/,217,0,1
+1683372804566,71,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,21,2,http://localhost:8080/api/v1/product/51/price/,62,0,2
+1683372804565,73,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,21,2,http://localhost:8080/api/v1/product/50/price/,66,0,1
+1683372804561,77,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,19,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,76,0,1
+1683372804549,90,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,19,2,http://localhost:8080/actuator/health/ping,90,0,1
+1683372804560,79,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,18,2,http://localhost:8080/api/v1/product/1/price/,79,0,1
+1683372804562,81,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,16,2,http://localhost:8080/api/v1/product/1/price/,80,0,0
+1683372804534,123,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,15,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,123,0,2
+1683372804559,99,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,14,3,http://localhost:8080/api/v1/product/51/price/,99,0,2
+1683372804549,111,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,13,3,http://localhost:8080/api/v1/store/DEFAULT,111,0,1
+1683372804567,96,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,12,3,http://localhost:8080/api/v1/product/52/price/,96,0,1
+1683372804561,104,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,11,3,http://localhost:8080/api/v1/product/52/price/,60,0,0
+1683372804532,133,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,11,3,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,133,0,2
+1683372804561,108,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,9,3,http://localhost:8080/api/v1/product/50/price/,108,0,0
+1683372804549,120,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,9,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,120,0,1
+1683372804553,116,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,9,3,http://localhost:8080/api/v1/product/50/price/,116,0,0
+1683372804544,140,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,6,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,140,0,1
+1683372804564,120,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,6,3,http://localhost:8080/api/v1/product/52/price/,120,0,1
+1683372804555,150,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,4,3,http://localhost:8080/api/v1/product/52/price/,150,0,1
+1683372804564,142,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,3,2,http://localhost:8080/api/v1/product/51/price/,142,0,1
+1683372804560,151,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,3,3,http://localhost:8080/api/v1/product/1/price/,151,0,1
+1683372804555,151,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,3,2,http://localhost:8080/api/v1/product/1/price/,151,0,1
+1683372804697,37,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,28,3,http://localhost:8080/actuator/health/ping,37,0,3
+1683372804709,48,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,27,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,41,0,1
+1683372804704,54,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,27,3,http://localhost:8080/api/v1/store/DEFAULT,54,0,1
+1683372804707,52,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,25,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,43,0,1
+1683372804711,49,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,25,3,http://localhost:8080/actuator/health/ping,48,0,1
+1683372804711,55,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,23,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,32,0,1
+1683372804700,75,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,22,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,75,0,3
+1683372804730,47,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,21,3,http://localhost:8080/api/v1/product/52/price/,45,0,1
+1683372804697,80,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,21,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,80,0,1
+1683372804724,54,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,19,3,http://localhost:8080/api/v1/product/1/price/,53,0,1
+1683372804731,48,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,18,3,http://localhost:8080/api/v1/product/51/price/,46,0,1
+1683372804727,60,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,17,3,http://localhost:8080/api/v1/product/50/price/,60,0,1
+1683372804713,77,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,16,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,77,0,1
+1683372804722,70,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,15,3,http://localhost:8080/api/v1/product/1/price/,69,0,1
+1683372804714,81,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,14,3,http://localhost:8080/api/v1/store/DEFAULT,74,0,1
+1683372804724,78,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,13,3,http://localhost:8080/api/v1/product/51/price/,77,0,1
+1683372804722,85,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,12,3,http://localhost:8080/api/v1/product/52/price/,79,0,1
+1683372804729,79,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,12,3,http://localhost:8080/api/v1/product/50/price/,66,0,1
+1683372804699,116,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,10,3,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,116,0,3
+1683372804712,109,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,9,3,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,107,0,1
+1683372804718,119,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,8,3,http://localhost:8080/api/v1/product/1/price/,119,0,2
+1683372804717,120,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,8,3,http://localhost:8080/api/v1/product/50/price/,120,0,2
+1683372804726,112,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,6,3,http://localhost:8080/api/v1/product/51/price/,112,0,1
+1683372804725,114,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,6,3,http://localhost:8080/api/v1/product/52/price/,114,0,2
+1683372804720,119,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,6,3,http://localhost:8080/api/v1/product/51/price/,119,0,1
+1683372804711,129,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,3,3,http://localhost:8080/api/v1/product/50/price/,129,0,1
+1683372804724,117,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,2,3,http://localhost:8080/api/v1/product/1/price/,117,0,1
+1683372804727,119,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,1,4,http://localhost:8080/api/v1/product/52/price/,119,0,1
+1683372804854,23,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,13,3,http://localhost:8080/actuator/health/ping,23,0,1
+1683372804855,23,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,13,3,http://localhost:8080/actuator/health/ping,23,0,1
+1683372804855,42,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,26,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,36,0,2
+1683372804858,39,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,26,4,http://localhost:8080/api/v1/store/DEFAULT,39,0,1
+1683372804854,56,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,24,4,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,56,0,1
+1683372804855,56,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,23,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,56,0,0
+1683372804854,57,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,23,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,57,0,1
+1683372804858,56,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,21,4,http://localhost:8080/api/v1/store/DEFAULT,56,0,1
+1683372804857,57,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,21,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,57,0,1
+1683372804463,59,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,475,965,4,4,null,0,409,1
+1683372804464,59,S01_T01_LaunchApp-00,200,,Thread Group 1-2,text,true,,475,965,2,2,http://localhost:8080/,59,0,1
+1683372804896,46,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,19,4,http://localhost:8080/api/v1/product/1/price/,46,0,1
+1683372804889,53,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,19,4,http://localhost:8080/api/v1/product/50/price/,53,0,1
+1683372804892,50,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,19,4,http://localhost:8080/api/v1/product/52/price/,31,0,1
+1683372804892,57,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,16,4,http://localhost:8080/api/v1/product/50/price/,31,0,1
+1683372804892,57,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,16,4,http://localhost:8080/api/v1/product/1/price/,50,0,1
+1683372804895,76,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,14,4,http://localhost:8080/api/v1/product/51/price/,54,0,1
+1683372804877,94,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,14,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,94,0,1
+1683372804879,92,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,14,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,92,0,12
+1683372804887,87,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,11,4,http://localhost:8080/api/v1/product/50/price/,87,0,2
+1683372804892,92,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,10,4,http://localhost:8080/api/v1/product/51/price/,79,0,1
+1683372804894,96,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,9,4,http://localhost:8080/api/v1/product/51/price/,96,0,1
+1683372804893,97,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,9,4,http://localhost:8080/api/v1/product/52/price/,49,0,0
+1683372804878,113,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,9,4,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,113,0,1
+1683372804889,104,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,6,4,http://localhost:8080/api/v1/product/51/price/,104,0,1
+1683372804888,112,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,5,4,http://localhost:8080/api/v1/product/1/price/,112,0,1
+1683372804890,115,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,115,0,1
+1683372804878,128,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,3,4,http://localhost:8080/api/v1/product/50/price/,128,0,0
+1683372804891,116,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,3,4,http://localhost:8080/api/v1/product/1/price/,116,0,1
+1683372804880,127,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,1,4,http://localhost:8080/api/v1/product/52/price/,127,0,12
+1683372805051,22,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,22,5,http://localhost:8080/actuator/health/ping,22,0,1
+1683372805051,22,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,21,4,http://localhost:8080/actuator/health/ping,18,0,1
+1683372805063,40,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,26,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,40,0,1
+1683372805060,43,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,26,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,43,0,1
+1683372805056,48,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,24,5,http://localhost:8080/api/v1/store/DEFAULT,48,0,1
+1683372805073,49,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,23,5,http://localhost:8080/api/v1/product/50/price/,36,0,1
+1683372805076,46,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,23,5,http://localhost:8080/api/v1/product/50/price/,46,0,1
+1683372805055,75,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,21,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,54,0,1
+1683372805055,78,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,20,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,55,0,1
+1683372805054,98,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,19,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,98,0,2
+1683372805079,81,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,18,5,http://localhost:8080/api/v1/product/51/price/,80,0,1
+1683372805059,111,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,17,5,http://localhost:8080/api/v1/product/52/price/,111,0,1
+1683372805064,107,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,17,5,http://localhost:8080/api/v1/product/1/price/,107,0,1
+1683372805071,106,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,15,5,http://localhost:8080/api/v1/product/51/price/,106,0,1
+1683372805070,114,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,14,5,http://localhost:8080/api/v1/product/1/price/,114,0,2
+1683372805078,108,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,14,5,http://localhost:8080/api/v1/product/52/price/,108,0,0
+1683372805079,105,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,14,5,http://localhost:8080/api/v1/product/51/price/,105,0,1
+1683372805055,129,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,14,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,129,0,1
+1683372805077,113,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,10,5,http://localhost:8080/api/v1/product/1/price/,113,0,1
+1683372805058,133,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,9,5,http://localhost:8080/api/v1/store/DEFAULT,133,0,2
+1683372805059,132,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,9,5,http://localhost:8080/api/v1/product/50/price/,132,0,1
+1683372805077,114,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,9,5,http://localhost:8080/api/v1/product/1/price/,114,0,1
+1683372805064,128,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,9,5,http://localhost:8080/api/v1/product/51/price/,128,0,1
+1683372805052,140,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,9,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,140,0,2
+1683372805079,117,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,4,5,http://localhost:8080/api/v1/product/52/price/,112,0,1
+1683372805060,141,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,3,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,141,0,1
+1683372805063,139,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,3,5,http://localhost:8080/api/v1/product/50/price/,139,0,1
+1683372805072,131,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,1,5,http://localhost:8080/api/v1/product/52/price/,131,0,1
+1683372804278,35,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,475,965,5,5,null,0,992,24
+1683372804352,35,S01_T01_LaunchApp-00,200,,Thread Group 1-1,text,true,,475,965,1,1,http://localhost:8080/,35,0,24
+1683372805284,24,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,8,5,http://localhost:8080/api/v1/product/1/price/,23,0,1
+1683372805284,24,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,24,0,1
+1683372805040,5,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,475,965,5,5,null,0,277,1
+1683372805040,5,S01_T01_LaunchApp-00,200,,Thread Group 1-5,text,true,,475,965,5,5,http://localhost:8080/,5,0,1
+1683372805287,36,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,6,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,36,0,2
+1683372805291,32,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,6,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,32,0,2
+1683372805284,42,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,4,5,http://localhost:8080/api/v1/product/1/price/,42,0,1
+1683372804844,4,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,475,965,5,5,null,0,491,1
+1683372804845,4,S01_T01_LaunchApp-00,200,,Thread Group 1-4,text,true,,475,965,4,4,http://localhost:8080/,4,0,1
+1683372805284,58,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,3,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,58,0,1
+1683372805288,66,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,66,0,1
+1683372804652,35,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,475,965,5,5,null,0,749,1
+1683372804653,35,S01_T01_LaunchApp-00,200,,Thread Group 1-3,text,true,,475,965,3,3,http://localhost:8080/,34,0,1
+1683372805289,170,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,1,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,170,0,2
+1683372805581,54,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,8,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,54,0,0
+1683372805580,59,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,7,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,59,0,1
+1683372805577,77,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,6,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,44,0,1
+1683372805568,86,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,51,0,2
+1683372805579,75,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,6,5,http://localhost:8080/api/v1/product/1/price/,49,0,1
+1683372805576,78,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,6,5,http://localhost:8080/api/v1/product/1/price/,78,0,1
+1683372805569,86,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,8,5,http://localhost:8080/api/v1/product/1/price/,59,0,1
+1683372805581,77,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,3,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,77,0,0
+1683372805574,88,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,6,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,54,0,1
+1683372805573,91,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,5,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,91,0,1
+1683372805569,96,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,5,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,96,0,1
+1683372805570,100,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,3,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,100,0,1
+1683372805581,106,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,106,0,0
+1683372805571,122,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,121,0,0
+1683372805577,118,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,1,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,118,0,1
+1683372805676,32,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,8,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,30,0,1
+1683372805674,34,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,32,0,0
+1683372805567,142,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,142,0,1
+1683372805674,37,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,6,5,http://localhost:8080/api/v1/product/1/price/,34,0,1
+1683372805674,65,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,5,5,http://localhost:8080/api/v1/product/1/price/,65,0,1
+1683372805674,66,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,4,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,66,0,0
+1683372805676,67,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,3,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,67,0,0
+1683372805676,67,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,3,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,67,0,0
+1683372805676,79,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,1,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,79,0,1
+1683372805777,15,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,8,5,http://localhost:8080/api/v1/product/1/price/,15,0,0
+1683372805779,16,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,7,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,13,0,1
+1683372805777,24,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,6,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,22,0,0
+1683372805322,243,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,10055,6909,5,5,null,0,258,0
+1683372805322,243,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-5,,true,,10055,6909,5,5,null,0,8,0
+1683372805322,12, /actuator/health/ping ,200,,Thread Group 1-5,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,12,0,0
+1683372805335,15, /actuator/health/ping ,200,,Thread Group 1-5,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,15,0,0
+1683372805351,41, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-5,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,41,0,0
+1683372805392,27, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-5,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,27,0,0
+1683372805420,10, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-5,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,9,0,0
+1683372805431,16, /api/v1/products/ ,200,,Thread Group 1-5,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,15,0,0
+1683372805779,44,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,5,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,44,0,1
+1683372805779,45,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,5,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,45,0,1
+1683372805447,40, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-5,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,40,0,0
+1683372805487,25, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-5,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,25,0,0
+1683372805513,27, /api/v1/store/DEFAULT ,200,,Thread Group 1-5,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,27,0,0
+1683372805541,8, /api/v1/content/pages/ ,200,,Thread Group 1-5,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,7,0,0
+1683372805550,7, /api/v1/store/DEFAULT ,200,,Thread Group 1-5,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,7,0,0
+1683372805558,15, /api/v1/category/ ,200,,Thread Group 1-5,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,7,0,0
+1683372805777,49,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,3,5,http://localhost:8080/api/v1/product/1/price/,49,0,1
+1683372805779,59,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,2,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,59,0,0
+1683372805777,62,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,1,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,62,0,0
+1683372805846,23,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,15,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,23,0,1
+1683372805845,24,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,15,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,24,0,1
+1683372805845,31,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,13,5,http://localhost:8080/api/v1/store/DEFAULT,24,0,1
+1683372805843,40,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,12,5,http://localhost:8080/actuator/health/ping,36,0,1
+1683372805846,45,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,11,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,44,0,1
+1683372805845,59,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,10,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,43,0,1
+1683372805846,58,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,10,5,http://localhost:8080/api/v1/product/1/price/,58,0,1
+1683372805848,56,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,10,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,56,0,1
+1683372805852,59,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,7,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,59,0,0
+1683372805843,81,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,6,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,81,0,0
+1683372805845,80,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,5,5,http://localhost:8080/api/v1/store/DEFAULT,80,0,1
+1683372805847,81,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,4,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,81,0,1
+1683372805843,87,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,3,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,87,0,0
+1683372805843,94,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,2,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,94,0,0
+1683372805852,89,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,89,0,0
+1683372804932,340,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,5,5,null,0,702,0
+1683372804932,340,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,5,5,null,0,9,0
+1683372804933,58, /actuator/health/ping ,200,,Thread Group 1-2,,true,,533,539,4,4,http://localhost:8080/actuator/health/ping,58,0,0
+1683372804992,14, /actuator/health/ping ,200,,Thread Group 1-2,text,true,,450,565,4,4,http://localhost:8080/actuator/health/ping,14,0,0
+1683372805007,25, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-2,,true,,533,586,4,4,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,25,0,0
+1683372805033,41, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-2,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,41,0,0
+1683372805075,63, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-2,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,46,0,0
+1683372805139,62, /api/v1/products/ ,200,,Thread Group 1-2,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,60,0,0
+1683372805202,17, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,17,0,0
+1683372805219,18, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,18,0,0
+1683372805238,23, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,23,0,0
+1683372805261,6, /api/v1/content/pages/ ,200,,Thread Group 1-2,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372805268,6, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1683372805274,7, /api/v1/category/ ,200,,Thread Group 1-2,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372805987,18,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,15,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,18,0,1
+1683372805985,22,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,14,5,http://localhost:8080/actuator/health/ping,20,0,1
+1683372805987,23,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,13,5,http://localhost:8080/api/v1/store/DEFAULT,23,0,1
+1683372805992,35,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,12,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,31,0,1
+1683372805992,35,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,12,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,31,0,1
+1683372805986,41,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,12,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,24,0,0
+1683372805989,39,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,12,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,39,0,1
+1683372805996,69,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,8,5,http://localhost:8080/api/v1/product/1/price/,52,0,1
+1683372805992,76,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,7,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,76,0,1
+1683372805987,81,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,7,5,http://localhost:8080/api/v1/store/DEFAULT,81,0,1
+1683372805985,86,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,5,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,86,0,1
+1683372805987,84,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,5,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,84,0,1
+1683372805985,89,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,3,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,89,0,2
+1683372805987,88,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,2,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,88,0,1
+1683372805994,92,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,92,0,2
+1683372805339,327,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,5,5,null,0,538,0
+1683372805339,327,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,5,5,null,0,4,0
+1683372805340,14, /actuator/health/ping ,200,,Thread Group 1-4,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,14,0,0
+1683372805354,8, /actuator/health/ping ,200,,Thread Group 1-4,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,8,0,0
+1683372805362,36, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-4,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,36,0,0
+1683372805398,36, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-4,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,36,0,0
+1683372805434,21, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-4,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,15,0,0
+1683372805456,26, /api/v1/products/ ,200,,Thread Group 1-4,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,25,0,0
+1683372805482,30, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,30,0,0
+1683372805512,28, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,28,0,0
+1683372805541,46, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,46,0,0
+1683372805588,9, /api/v1/content/pages/ ,200,,Thread Group 1-4,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,7,0,0
+1683372805597,65, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,46,0,0
+1683372805662,8, /api/v1/category/ ,200,,Thread Group 1-4,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,8,0,0
+1683372806218,34,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,15,5,http://localhost:8080/actuator/health/ping,34,0,2
+1683372806222,46,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,14,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,46,0,1
+1683372806229,43,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,13,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,41,0,1
+1683372806224,49,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,12,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,49,0,2
+1683372806228,54,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,11,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,54,0,2
+1683372806225,57,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,11,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,57,0,1
+1683372806239,54,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,9,5,http://localhost:8080/api/v1/product/1/price/,54,0,3
+1683372806229,65,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,9,5,http://localhost:8080/api/v1/store/DEFAULT,63,0,1
+1683372806219,83,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,7,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,83,0,1
+1683372805825,13,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,533,989,5,5,null,0,468,0
+1683372805825,13,S01_T03_ClickOnTable-00,200,,Thread Group 1-5,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,13,0,0
+1683372806225,89,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,6,5,http://localhost:8080/api/v1/store/DEFAULT,89,0,1
+1683372806228,91,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,91,0,2
+1683372806229,91,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,4,5,http://localhost:8080/api/v1/product/1/price/,91,0,1
+1683372806222,104,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,3,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,104,0,1
+1683372806222,106,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,2,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,106,0,1
+1683372806228,102,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,1,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,102,0,2
+1683372805437,327,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,10055,6909,5,5,null,0,719,0
+1683372805437,327,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-3,,true,,10055,6909,5,5,null,0,10,0
+1683372805437,7, /actuator/health/ping ,200,,Thread Group 1-3,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,7,0,0
+1683372805444,12, /actuator/health/ping ,200,,Thread Group 1-3,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,12,0,0
+1683372805456,36, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-3,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,36,0,0
+1683372805493,27, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-3,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,27,0,0
+1683372805521,9, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-3,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,8,0,0
+1683372805531,14, /api/v1/products/ ,200,,Thread Group 1-3,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,14,0,0
+1683372805546,49, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-3,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,49,0,0
+1683372805596,96, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-3,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,96,0,0
+1683372805693,56, /api/v1/store/DEFAULT ,200,,Thread Group 1-3,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,56,0,0
+1683372805750,8, /api/v1/content/pages/ ,200,,Thread Group 1-3,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,7,0,0
+1683372805759,4, /api/v1/store/DEFAULT ,200,,Thread Group 1-3,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372805764,9, /api/v1/category/ ,200,,Thread Group 1-3,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,9,0,0
+1683372806491,15,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,15,5,http://localhost:8080/actuator/health/ping,15,0,0
+1683372806493,16,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,14,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,16,0,0
+1683372806493,32,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,13,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,27,0,0
+1683372806491,52,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,12,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,52,0,0
+1683372806495,48,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,12,5,http://localhost:8080/api/v1/product/1/price/,48,0,2
+1683372806496,48,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,10,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,48,0,1
+1683372806493,51,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,10,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,50,0,1
+1683372806492,54,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,8,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,54,0,1
+1683372806491,61,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,7,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,61,0,1
+1683372806496,56,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,7,5,http://localhost:8080/api/v1/store/DEFAULT,29,0,1
+1683372806494,59,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,52,0,1
+1683372805306,251,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,10055,6909,5,5,null,0,998,0
+1683372805306,251,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-1,,true,,10055,6909,5,5,null,0,7,0
+1683372805306,17, /actuator/health/ping ,200,,Thread Group 1-1,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,17,0,0
+1683372805323,9, /actuator/health/ping ,200,,Thread Group 1-1,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,9,0,0
+1683372805333,49, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-1,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,49,0,0
+1683372805383,31, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-1,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,31,0,0
+1683372805415,12, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-1,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,11,0,0
+1683372805427,15, /api/v1/products/ ,200,,Thread Group 1-1,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,15,0,0
+1683372805443,35, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-1,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,35,0,0
+1683372805479,28, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-1,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,28,0,0
+1683372805507,28, /api/v1/store/DEFAULT ,200,,Thread Group 1-1,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,28,0,0
+1683372805535,6, /api/v1/content/pages/ ,200,,Thread Group 1-1,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372805542,10, /api/v1/store/DEFAULT ,200,,Thread Group 1-1,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,7,0,0
+1683372805553,11, /api/v1/category/ ,200,,Thread Group 1-1,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,10,0,0
+1683372806497,66,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,4,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,66,0,0
+1683372806494,71,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,3,5,http://localhost:8080/api/v1/store/DEFAULT,71,0,1
+1683372806569,20,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,15,5,http://localhost:8080/actuator/health/ping,20,0,1
+1683372806571,25,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,14,5,http://localhost:8080/api/v1/store/DEFAULT,25,0,1
+1683372806573,25,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,13,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,23,0,2
+1683372806574,31,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,12,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,31,0,0
+1683372806574,32,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,11,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,22,0,1
+1683372806493,113,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,2,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,113,0,0
+1683372806495,116,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,116,0,1
+1683372806483,5,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,533,989,5,5,null,0,134,0
+1683372806483,5,S01_T03_ClickOnTable-00,200,,Thread Group 1-3,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372806571,51,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,10,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,51,0,1
+1683372806574,48,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,10,5,http://localhost:8080/api/v1/product/1/price/,48,0,0
+1683372806571,51,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,10,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,51,0,1
+1683372806569,54,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,10,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,54,0,1
+1683372806574,65,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,6,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,65,0,1
+1683372806575,64,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,6,5,http://localhost:8080/api/v1/product/1/price/,64,0,1
+1683372806569,70,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,6,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,70,0,1
+1683372806569,70,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,6,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,70,0,1
+1683372806571,76,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,2,5,http://localhost:8080/api/v1/store/DEFAULT,76,0,1
+1683372806573,79,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,1,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,79,0,1
+1683372806307,92,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,5612,4078,5,5,null,0,304,0
+1683372806307,33,S01_T04_AddToCartButton-0,200,,Thread Group 1-5,,true,,533,995,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,33,0,0
+1683372806340,23,S01_T04_AddToCartButton-1,201,,Thread Group 1-5,text,true,,2273,1045,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,23,0,0
+1683372806409,20,S01_T04_AddToCartButton-2,200,,Thread Group 1-5,,true,,533,1021,5,5,http://localhost:8080/api/v1/cart/515896be9cb849a1adafb548eef5063d?lang=en,20,0,0
+1683372806429,16,S01_T04_AddToCartButton-3,200,,Thread Group 1-5,text,true,,2273,1017,5,5,http://localhost:8080/api/v1/cart/515896be9cb849a1adafb548eef5063d?lang=en,15,0,0
+1683372805975,5,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,533,989,4,4,null,0,793,0
+1683372805975,5,S01_T03_ClickOnTable-00,200,,Thread Group 1-2,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372806773,70,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,5612,4078,4,4,null,0,152,0
+1683372806774,17,S01_T04_AddToCartButton-0,200,,Thread Group 1-2,,true,,533,995,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,17,0,0
+1683372806791,18,S01_T04_AddToCartButton-1,201,,Thread Group 1-2,text,true,,2273,1045,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,17,0,0
+1683372806809,22,S01_T04_AddToCartButton-2,200,,Thread Group 1-2,,true,,533,1021,4,4,http://localhost:8080/api/v1/cart/7e90162f1edb498bb78e5c4e7ae31812?lang=en,22,0,0
+1683372806831,13,S01_T04_AddToCartButton-3,200,,Thread Group 1-2,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/7e90162f1edb498bb78e5c4e7ae31812?lang=en,13,0,0
+1683372806622,97,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,5612,4078,4,4,null,0,471,0
+1683372806622,35,S01_T04_AddToCartButton-0,200,,Thread Group 1-3,,true,,533,995,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,35,0,0
+1683372806657,19,S01_T04_AddToCartButton-1,201,,Thread Group 1-3,text,true,,2273,1045,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372806677,19,S01_T04_AddToCartButton-2,200,,Thread Group 1-3,,true,,533,1021,5,5,http://localhost:8080/api/v1/cart/8ae6da280b7447f9974b1d75dca4e3f2?lang=en,19,0,0
+1683372806696,24,S01_T04_AddToCartButton-3,200,,Thread Group 1-3,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/8ae6da280b7447f9974b1d75dca4e3f2?lang=en,24,0,0
+1683372806204,7,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,533,989,3,3,null,0,996,0
+1683372806205,7,S01_T03_ClickOnTable-00,200,,Thread Group 1-4,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,7,0,0
+1683372806995,340,S01_T05_ChairsTab,200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-2,,true,,17218,19052,3,3,null,0,7,0
+1683372806995,167,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,4,4,null,0,4,0
+1683372806996,14, /actuator/health/ping ,200,,Thread Group 1-2,,true,,533,539,4,4,http://localhost:8080/actuator/health/ping,14,0,0
+1683372807011,8, /actuator/health/ping ,200,,Thread Group 1-2,text,true,,450,565,4,4,http://localhost:8080/actuator/health/ping,7,0,0
+1683372807019,32, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-2,,true,,533,586,4,4,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,32,0,0
+1683372807051,25, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-2,,true,,533,562,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,25,0,0
+1683372807076,9, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-2,text,true,,522,588,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,8,0,0
+1683372807085,12, /api/v1/products/ ,200,,Thread Group 1-2,text,true,,2680,611,4,4,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,11,0,0
+1683372807097,20, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,578,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,20,0,0
+1683372807118,17, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,573,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,17,0,0
+1683372807135,16, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,,true,,533,539,4,4,http://localhost:8080/api/v1/store/DEFAULT,16,0,0
+1683372807152,4, /api/v1/content/pages/ ,200,,Thread Group 1-2,text,true,,511,604,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,3,0,0
+1683372807156,5, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,text,true,,1163,565,4,4,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372807161,5, /api/v1/category/ ,200,,Thread Group 1-2,text,true,,1531,599,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,5,0,0
+1683372807167,17,S01_T05_ChairsTab-13,200,,Thread Group 1-2,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,17,0,0
+1683372807184,21,S01_T05_ChairsTab-14,200,,Thread Group 1-2,,true,,533,993,3,3,http://localhost:8080/api/v1/product/51/price/,21,0,0
+1683372807205,19,S01_T05_ChairsTab-15,200,,Thread Group 1-2,,true,,533,1009,3,3,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,19,0,0
+1683372807224,19,S01_T05_ChairsTab-16,200,,Thread Group 1-2,,true,,533,993,3,3,http://localhost:8080/api/v1/product/50/price/,19,0,0
+1683372807244,6,S01_T05_ChairsTab-17,200,,Thread Group 1-2,text,true,,765,1005,3,3,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,5,0,0
+1683372807250,9,S01_T05_ChairsTab-18,200,,Thread Group 1-2,text,true,,531,1024,3,3,http://localhost:8080/api/v1/product/52/price/,8,0,0
+1683372807259,14,S01_T05_ChairsTab-19,200,,Thread Group 1-2,text,true,,531,1024,3,3,http://localhost:8080/api/v1/product/51/price/,13,0,0
+1683372807273,9,S01_T05_ChairsTab-20,200,,Thread Group 1-2,text,true,,529,1024,3,3,http://localhost:8080/api/v1/product/50/price/,8,0,0
+1683372807282,19,S01_T05_ChairsTab-21,200,,Thread Group 1-2,,true,,533,1024,3,3,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,19,0,0
+1683372807301,6,S01_T05_ChairsTab-22,200,,Thread Group 1-2,text,true,,642,1020,3,3,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,5,0,0
+1683372807307,18,S01_T05_ChairsTab-23,200,,Thread Group 1-2,,true,,533,1019,3,3,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,18,0,0
+1683372807326,16,S01_T05_ChairsTab-24,404,,Thread Group 1-2,text,true,,967,1015,3,3,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,16,0,0
+1683372806555,8,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,533,989,3,3,null,0,872,0
+1683372806555,8,S01_T03_ClickOnTable-00,200,,Thread Group 1-1,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,8,0,0
+1683372807342,192,S01_T06_SelectRandomChair,200,"Number of samples in transaction : 16, number of failing samples : 0",Thread Group 1-2,,true,,12061,16107,3,3,null,0,8,0
+1683372807343,4,S01_T06_SelectRandomChair-01,200,,Thread Group 1-2,,true,,533,989,3,3,http://localhost:8080/actuator/health/ping,4,0,0
+1683372807347,5,S01_T06_SelectRandomChair-02,200,,Thread Group 1-2,text,true,,450,985,3,3,http://localhost:8080/actuator/health/ping,5,0,0
+1683372807352,18,S01_T06_SelectRandomChair-03,200,,Thread Group 1-2,,true,,533,1012,3,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372807370,19,S01_T06_SelectRandomChair-04,200,,Thread Group 1-2,,true,,533,1009,3,3,http://localhost:8080/api/v1/products/50?lang=en&store=DEFAULT,19,0,0
+1683372807389,18,S01_T06_SelectRandomChair-05,200,,Thread Group 1-2,,true,,533,1009,3,3,http://localhost:8080/api/v1/products/50/reviews?store=DEFAULT,18,0,0
+1683372807408,7,S01_T06_SelectRandomChair-06,404,,Thread Group 1-2,text,true,,522,1008,3,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,6,0,0
+1683372807415,7,S01_T06_SelectRandomChair-07,200,,Thread Group 1-2,text,true,,2654,1005,3,3,http://localhost:8080/api/v1/products/50?lang=en&store=DEFAULT,6,0,0
+1683372807422,6,S01_T06_SelectRandomChair-08,200,,Thread Group 1-2,text,true,,437,1005,3,3,http://localhost:8080/api/v1/products/50/reviews?store=DEFAULT,6,0,0
+1683372807428,19,S01_T06_SelectRandomChair-09,200,,Thread Group 1-2,,true,,533,989,3,3,http://localhost:8080/api/v1/store/DEFAULT,19,0,0
+1683372807448,22,S01_T06_SelectRandomChair-10,200,,Thread Group 1-2,,true,,533,1028,3,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,22,0,0
+1683372807471,25,S01_T06_SelectRandomChair-11,200,,Thread Group 1-2,,true,,533,1023,3,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,25,0,0
+1683372807497,5,S01_T06_SelectRandomChair-12,200,,Thread Group 1-2,text,true,,1163,985,3,3,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372807502,5,S01_T06_SelectRandomChair-13,200,,Thread Group 1-2,text,true,,511,1024,3,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372807508,5,S01_T06_SelectRandomChair-14,200,,Thread Group 1-2,text,true,,1531,1019,3,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,4,0,0
+1683372807513,21,S01_T06_SelectRandomChair-15,200,,Thread Group 1-2,,true,,533,993,3,3,http://localhost:8080/api/v1/product/50/price/,21,0,0
+1683372807535,6,S01_T06_SelectRandomChair-16,200,,Thread Group 1-2,text,true,,529,1024,3,3,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1683372807542,84,S01_T07_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,5612,4078,3,3,null,0,1,0
+1683372807542,28,S01_T07_AddToCartButton-0,200,,Thread Group 1-2,,true,,533,995,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,28,0,0
+1683372807570,22,S01_T07_AddToCartButton-1,201,,Thread Group 1-2,text,true,,2273,1045,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372807593,20,S01_T07_AddToCartButton-2,200,,Thread Group 1-2,,true,,533,1021,3,3,http://localhost:8080/api/v1/cart/964c48212ba349b8bb207106481b4507?lang=en,20,0,0
+1683372807613,14,S01_T07_AddToCartButton-3,200,,Thread Group 1-2,text,true,,2273,1017,3,3,http://localhost:8080/api/v1/cart/964c48212ba349b8bb207106481b4507?lang=en,13,0,0
+1683372807207,78,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,5612,4078,3,3,null,0,818,0
+1683372807207,19,S01_T04_AddToCartButton-0,200,,Thread Group 1-4,,true,,533,995,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372807226,22,S01_T04_AddToCartButton-1,201,,Thread Group 1-4,text,true,,2273,1045,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372807249,25,S01_T04_AddToCartButton-2,200,,Thread Group 1-4,,true,,533,1021,3,3,http://localhost:8080/api/v1/cart/e048d88f55244ff693d3ab39d4c834af?lang=en,25,0,0
+1683372807274,12,S01_T04_AddToCartButton-3,200,,Thread Group 1-4,text,true,,2273,1017,3,3,http://localhost:8080/api/v1/cart/e048d88f55244ff693d3ab39d4c834af?lang=en,11,0,0
+1683372807435,82,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,5612,4078,3,3,null,0,650,0
+1683372807435,21,S01_T04_AddToCartButton-0,200,,Thread Group 1-1,,true,,533,995,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372807457,22,S01_T04_AddToCartButton-1,201,,Thread Group 1-1,text,true,,2273,1045,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372807479,26,S01_T04_AddToCartButton-2,200,,Thread Group 1-1,,true,,533,1021,3,3,http://localhost:8080/api/v1/cart/bd582190700e4e01a84a094ff5830034?lang=en,26,0,0
+1683372807505,13,S01_T04_AddToCartButton-3,200,,Thread Group 1-1,text,true,,2273,1017,3,3,http://localhost:8080/api/v1/cart/bd582190700e4e01a84a094ff5830034?lang=en,12,0,0
+1683372808103,323,S01_T05_ChairsTab,200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-4,,true,,17218,19052,2,2,null,0,10,0
+1683372808103,153,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,2,2,null,0,8,0
+1683372808104,8, /actuator/health/ping ,200,,Thread Group 1-4,,true,,533,539,3,3,http://localhost:8080/actuator/health/ping,8,0,0
+1683372808114,6, /actuator/health/ping ,200,,Thread Group 1-4,text,true,,450,565,3,3,http://localhost:8080/actuator/health/ping,6,0,0
+1683372808121,22, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-4,,true,,533,586,3,3,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,22,0,0
+1683372808143,18, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-4,,true,,533,562,3,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372808162,10, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-4,text,true,,522,588,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,10,0,0
+1683372808173,14, /api/v1/products/ ,200,,Thread Group 1-4,text,true,,2680,611,2,2,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,13,0,0
+1683372808188,20, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,578,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,20,0,0
+1683372808209,20, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,573,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,20,0,0
+1683372808229,18, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,,true,,533,539,2,2,http://localhost:8080/api/v1/store/DEFAULT,18,0,0
+1683372808247,6, /api/v1/content/pages/ ,200,,Thread Group 1-4,text,true,,511,604,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372808253,5, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,text,true,,1163,565,2,2,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372808258,6, /api/v1/category/ ,200,,Thread Group 1-4,text,true,,1531,599,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,5,0,0
+1683372808264,18,S01_T05_ChairsTab-13,200,,Thread Group 1-4,,true,,533,993,2,2,http://localhost:8080/api/v1/product/52/price/,18,0,0
+1683372808282,20,S01_T05_ChairsTab-14,200,,Thread Group 1-4,,true,,533,993,2,2,http://localhost:8080/api/v1/product/51/price/,20,0,0
+1683372808302,18,S01_T05_ChairsTab-15,200,,Thread Group 1-4,,true,,533,1009,2,2,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,18,0,0
+1683372808320,17,S01_T05_ChairsTab-16,200,,Thread Group 1-4,,true,,533,993,2,2,http://localhost:8080/api/v1/product/50/price/,17,0,0
+1683372808338,5,S01_T05_ChairsTab-17,200,,Thread Group 1-4,text,true,,765,1005,2,2,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,4,0,0
+1683372808343,9,S01_T05_ChairsTab-18,200,,Thread Group 1-4,text,true,,531,1024,2,2,http://localhost:8080/api/v1/product/52/price/,8,0,0
+1683372808352,8,S01_T05_ChairsTab-19,200,,Thread Group 1-4,text,true,,531,1024,2,2,http://localhost:8080/api/v1/product/51/price/,7,0,0
+1683372808360,9,S01_T05_ChairsTab-20,200,,Thread Group 1-4,text,true,,529,1024,2,2,http://localhost:8080/api/v1/product/50/price/,8,0,0
+1683372808369,22,S01_T05_ChairsTab-21,200,,Thread Group 1-4,,true,,533,1024,2,2,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,22,0,0
+1683372808392,8,S01_T05_ChairsTab-22,200,,Thread Group 1-4,text,true,,642,1020,2,2,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,7,0,0
+1683372808400,19,S01_T05_ChairsTab-23,200,,Thread Group 1-4,,true,,533,1019,2,2,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,19,0,0
+1683372808419,17,S01_T05_ChairsTab-24,404,,Thread Group 1-4,text,true,,967,1015,2,2,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,17,0,0
+1683372808436,187,S01_T06_SelectRandomChair,200,"Number of samples in transaction : 16, number of failing samples : 0",Thread Group 1-4,,true,,12017,16107,2,2,null,0,7,0
+1683372808436,5,S01_T06_SelectRandomChair-01,200,,Thread Group 1-4,,true,,533,989,2,2,http://localhost:8080/actuator/health/ping,5,0,0
+1683372808441,4,S01_T06_SelectRandomChair-02,200,,Thread Group 1-4,text,true,,450,985,2,2,http://localhost:8080/actuator/health/ping,4,0,0
+1683372808445,18,S01_T06_SelectRandomChair-03,200,,Thread Group 1-4,,true,,533,1012,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372808464,17,S01_T06_SelectRandomChair-04,200,,Thread Group 1-4,,true,,533,1009,2,2,http://localhost:8080/api/v1/products/52?lang=en&store=DEFAULT,17,0,0
+1683372808482,17,S01_T06_SelectRandomChair-05,200,,Thread Group 1-4,,true,,533,1009,2,2,http://localhost:8080/api/v1/products/52/reviews?store=DEFAULT,17,0,0
+1683372808499,7,S01_T06_SelectRandomChair-06,404,,Thread Group 1-4,text,true,,522,1008,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,7,0,0
+1683372808507,5,S01_T06_SelectRandomChair-07,200,,Thread Group 1-4,text,true,,2608,1005,2,2,http://localhost:8080/api/v1/products/52?lang=en&store=DEFAULT,5,0,0
+1683372808513,6,S01_T06_SelectRandomChair-08,200,,Thread Group 1-4,text,true,,437,1005,2,2,http://localhost:8080/api/v1/products/52/reviews?store=DEFAULT,5,0,0
+1683372808519,18,S01_T06_SelectRandomChair-09,200,,Thread Group 1-4,,true,,533,989,2,2,http://localhost:8080/api/v1/store/DEFAULT,18,0,0
+1683372808537,17,S01_T06_SelectRandomChair-10,200,,Thread Group 1-4,,true,,533,1028,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,17,0,0
+1683372808555,24,S01_T06_SelectRandomChair-11,200,,Thread Group 1-4,,true,,533,1023,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,24,0,0
+1683372808579,6,S01_T06_SelectRandomChair-12,200,,Thread Group 1-4,text,true,,1163,985,2,2,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1683372808585,6,S01_T06_SelectRandomChair-13,200,,Thread Group 1-4,text,true,,511,1024,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372808592,7,S01_T06_SelectRandomChair-14,200,,Thread Group 1-4,text,true,,1531,1019,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372808599,22,S01_T06_SelectRandomChair-15,200,,Thread Group 1-4,,true,,533,993,2,2,http://localhost:8080/api/v1/product/52/price/,22,0,0
+1683372808621,8,S01_T06_SelectRandomChair-16,200,,Thread Group 1-4,text,true,,531,1024,2,2,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1683372808630,78,S01_T07_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,5612,4078,2,2,null,0,1,0
+1683372808630,21,S01_T07_AddToCartButton-0,200,,Thread Group 1-4,,true,,533,995,2,2,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372808651,20,S01_T07_AddToCartButton-1,201,,Thread Group 1-4,text,true,,2273,1045,2,2,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372808671,26,S01_T07_AddToCartButton-2,200,,Thread Group 1-4,,true,,533,1021,2,2,http://localhost:8080/api/v1/cart/c5a7f258573b4c5d99763f820e5658fb?lang=en,26,0,0
+1683372808697,11,S01_T07_AddToCartButton-3,200,,Thread Group 1-4,text,true,,2273,1017,2,2,http://localhost:8080/api/v1/cart/c5a7f258573b4c5d99763f820e5658fb?lang=en,11,0,0
+1683372808622,1504,S01_T08_CartIcon-->Checkout,404,"Number of samples in transaction : 28, number of failing samples : 7",Thread Group 1-2,,false,,53296,28128,1,1,null,0,7,710
+1683372808623,5,S01_T08_CartIcon-->Checkout-00,200,,Thread Group 1-2,,true,,533,989,2,2,http://localhost:8080/actuator/health/ping,5,0,0
+1683372808628,6,S01_T08_CartIcon-->Checkout-01,200,,Thread Group 1-2,,true,,533,1014,2,2,http://localhost:8080/api/v1/shipping/country?store=DEFAULT&lang=en,6,0,0
+1683372808634,18,S01_T08_CartIcon-->Checkout-02,200,,Thread Group 1-2,,true,,533,1012,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372808652,31,S01_T08_CartIcon-->Checkout-03,200,,Thread Group 1-2,,true,,533,1027,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d?store=DEFAULT,31,0,0
+1683372808683,4,S01_T08_CartIcon-->Checkout-04,200,,Thread Group 1-2,text,true,,450,985,2,2,http://localhost:8080/actuator/health/ping,3,0,0
+1683372808687,24,S01_T08_CartIcon-->Checkout-05,200,,Thread Group 1-2,,true,,533,988,2,2,http://localhost:8080/api/v1/zones/?code=,24,0,0
+1683372808711,8,S01_T08_CartIcon-->Checkout-06,404,,Thread Group 1-2,text,true,,522,1008,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,8,0,0
+1683372808720,19,S01_T08_CartIcon-->Checkout-07,200,,Thread Group 1-2,,true,,533,983,2,2,http://localhost:8080/api/v1/config/,19,0,0
+1683372808739,19,S01_T08_CartIcon-->Checkout-08,200,,Thread Group 1-2,,true,,533,1020,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/total/,19,0,0
+1683372808758,17,S01_T08_CartIcon-->Checkout-09,200,,Thread Group 1-2,,true,,533,988,2,2,http://localhost:8080/api/v1/zones/?code=,17,0,0
+1683372808775,18,S01_T08_CartIcon-->Checkout-10,200,,Thread Group 1-2,,true,,533,1022,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/shipping,18,0,0
+1683372808793,4,S01_T08_CartIcon-->Checkout-11,200,,Thread Group 1-2,text,true,,437,984,2,2,http://localhost:8080/api/v1/zones/?code=,4,0,0
+1683372808797,14,S01_T08_CartIcon-->Checkout-12,404,,Thread Group 1-2,text,false,,878,1023,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d?store=DEFAULT,14,0,0
+1683372808811,5,S01_T08_CartIcon-->Checkout-13,200,,Thread Group 1-2,text,true,,437,984,2,2,http://localhost:8080/api/v1/zones/?code=,4,0,0
+1683372808816,8,S01_T08_CartIcon-->Checkout-14,200,,Thread Group 1-2,text,true,,724,979,2,2,http://localhost:8080/api/v1/config/,8,0,0
+1683372808825,17,S01_T08_CartIcon-->Checkout-15,200,,Thread Group 1-2,,true,,533,989,2,2,http://localhost:8080/api/v1/store/DEFAULT,17,0,0
+1683372808842,15,S01_T08_CartIcon-->Checkout-16,404,,Thread Group 1-2,text,false,,878,1016,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/total/,15,0,0
+1683372808857,7,S01_T08_CartIcon-->Checkout-17,200,,Thread Group 1-2,text,true,,35609,1010,2,2,http://localhost:8080/api/v1/shipping/country?store=DEFAULT&lang=en,6,0,0
+1683372808865,5,S01_T08_CartIcon-->Checkout-18,200,,Thread Group 1-2,text,true,,1163,985,2,2,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372808870,19,S01_T08_CartIcon-->Checkout-19,200,,Thread Group 1-2,,true,,533,1028,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,19,0,0
+1683372808889,18,S01_T08_CartIcon-->Checkout-20,200,,Thread Group 1-2,,true,,533,1023,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,18,0,0
+1683372808907,17,S01_T08_CartIcon-->Checkout-21,404,,Thread Group 1-2,text,false,,878,1040,2,2,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/shipping,17,0,0
+1683372808925,6,S01_T08_CartIcon-->Checkout-22,200,,Thread Group 1-2,text,true,,511,1024,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372808931,7,S01_T08_CartIcon-->Checkout-23,200,,Thread Group 1-2,text,true,,1531,1019,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,7,0,0
+1683372808940,725,S01_T08_CartIcon-->Checkout-24,400,Bad Request,Thread Group 1-2,text,false,,179,1003,1,1,https://maps.googleapis.com/maps/api/js?key=&libraries=places,723,0,420
+1683372809666,166,S01_T08_CartIcon-->Checkout-25,400,Bad Request,Thread Group 1-2,text,false,,1262,966,1,1,https://js.stripe.com/v3,166,0,138
+1683372809832,201,S01_T08_CartIcon-->Checkout-26,400,Bad Request,Thread Group 1-2,text,false,,179,1007,1,1,https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true,201,0,79
+1683372810033,101,S01_T08_CartIcon-->Checkout-27,400,Bad Request,Thread Group 1-2,text,false,,1262,1012,1,1,https://js.stripe.com/v3/m-outer-93afeeb17bc37e711759584dbfc50d47.html,101,0,73
+1683372897758,68,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,28,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,60,0,1
+1683372897751,72,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,28,2,http://localhost:8080/actuator/health/ping,72,0,1
+1683372897758,65,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,28,2,http://localhost:8080/api/v1/store/DEFAULT,65,0,1
+1683372897758,65,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,28,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,64,0,2
+1683372897751,72,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,28,2,http://localhost:8080/actuator/health/ping,72,0,1
+1683372897754,70,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,28,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,70,0,1
+1683372897754,92,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,22,2,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,92,0,1
+1683372897751,95,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,22,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,95,0,1
+1683372897758,91,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,20,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,91,0,1
+1683372897754,100,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,19,2,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,95,0,1
+1683372897754,105,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,18,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,105,0,2
+1683372897789,70,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,18,2,http://localhost:8080/api/v1/product/50/price/,70,0,1
+1683372897759,134,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,16,2,http://localhost:8080/api/v1/store/DEFAULT,134,0,3
+1683372897797,98,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,15,2,http://localhost:8080/api/v1/product/52/price/,98,0,1
+1683372897768,142,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,14,1,http://localhost:8080/api/v1/product/1/price/,142,0,1
+1683372897763,147,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,14,1,http://localhost:8080/api/v1/product/50/price/,147,0,2
+1683372897792,146,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,12,2,http://localhost:8080/api/v1/product/1/price/,146,0,1
+1683372897764,175,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,12,2,http://localhost:8080/api/v1/product/52/price/,175,0,1
+1683372897763,175,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,12,2,http://localhost:8080/api/v1/product/50/price/,175,0,2
+1683372897805,133,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,12,2,http://localhost:8080/api/v1/product/51/price/,106,0,2
+1683372897805,135,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,11,2,http://localhost:8080/api/v1/product/51/price/,135,0,2
+1683372897788,154,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,7,2,http://localhost:8080/api/v1/product/50/price/,151,0,4
+1683372897768,174,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,7,2,http://localhost:8080/api/v1/product/1/price/,174,0,1
+1683372897772,186,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,5,3,http://localhost:8080/api/v1/product/52/price/,186,0,4
+1683372897913,58,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,28,3,http://localhost:8080/api/v1/product/52/price/,58,0,1
+1683372897770,203,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,4,3,http://localhost:8080/api/v1/product/1/price/,200,0,6
+1683372897883,112,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,27,3,http://localhost:8080/actuator/health/ping,112,0,0
+1683372897928,80,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,26,3,http://localhost:8080/api/v1/store/DEFAULT,56,0,0
+1683372897912,97,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,25,3,http://localhost:8080/actuator/health/ping,92,0,3
+1683372897769,240,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,3,3,http://localhost:8080/api/v1/product/51/price/,240,0,0
+1683372897941,77,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,24,3,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,66,0,1
+1683372897898,120,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,24,3,http://localhost:8080/api/v1/product/50/price/,107,0,1
+1683372897897,121,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,24,3,http://localhost:8080/api/v1/product/50/price/,108,0,3
+1683372897868,150,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,24,3,http://localhost:8080/api/v1/store/DEFAULT,150,0,5
+1683372897913,114,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,20,3,http://localhost:8080/api/v1/product/51/price/,113,0,2
+1683372897875,152,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,20,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,152,0,1
+1683372897932,100,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,18,3,http://localhost:8080/api/v1/product/52/price/,100,0,2
+1683372897916,117,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,18,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,116,0,4
+1683372897928,114,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,16,3,http://localhost:8080/api/v1/product/50/price/,114,0,0
+1683372897933,110,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,15,3,http://localhost:8080/api/v1/product/1/price/,110,0,2
+1683372897773,283,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,2,3,http://localhost:8080/api/v1/product/51/price/,283,0,1
+1683372897935,186,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,14,3,http://localhost:8080/api/v1/product/51/price/,116,0,2
+1683372897774,348,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,1,3,http://localhost:8080/api/v1/product/52/price/,348,0,1
+1683372897931,190,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,14,3,http://localhost:8080/api/v1/product/1/price/,123,0,1
+1683372897882,240,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,14,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,240,0,1
+1683372897894,229,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,11,3,http://localhost:8080/api/v1/product/51/price/,229,0,1
+1683372897929,194,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,11,3,http://localhost:8080/api/v1/product/51/price/,194,0,1
+1683372897883,240,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,11,3,http://localhost:8080/api/v1/product/50/price/,240,0,1
+1683372897864,259,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,11,3,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,259,0,1
+1683372897864,260,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,7,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,260,0,1
+1683372897884,241,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,6,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,168,0,1
+1683372897926,200,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,6,3,http://localhost:8080/api/v1/product/52/price/,200,0,1
+1683372897894,233,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,4,3,http://localhost:8080/api/v1/product/52/price/,233,0,1
+1683372897890,237,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,4,3,http://localhost:8080/api/v1/product/1/price/,237,0,1
+1683372898071,132,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,28,4,http://localhost:8080/actuator/health/ping,97,0,1
+1683372898108,104,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,27,4,http://localhost:8080/api/v1/product/1/price/,37,0,1
+1683372898082,130,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,27,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,67,0,3
+1683372898106,106,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,27,4,http://localhost:8080/api/v1/product/52/price/,106,0,1
+1683372898121,91,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,27,4,http://localhost:8080/api/v1/product/51/price/,91,0,3
+1683372898092,142,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,23,4,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,133,0,3
+1683372898089,145,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,23,4,http://localhost:8080/api/v1/product/50/price/,145,0,1
+1683372898079,155,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,23,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,155,0,1
+1683372898119,116,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,20,4,http://localhost:8080/api/v1/product/52/price/,93,0,1
+1683372898107,158,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,19,4,http://localhost:8080/api/v1/product/50/price/,158,0,1
+1683372898111,154,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,19,4,http://localhost:8080/api/v1/product/51/price/,154,0,1
+1683372898116,149,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,19,4,http://localhost:8080/api/v1/product/50/price/,149,0,1
+1683372898107,192,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,16,4,http://localhost:8080/api/v1/product/1/price/,192,0,1
+1683372898112,187,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,16,4,http://localhost:8080/api/v1/product/50/price/,80,0,1
+1683372898091,208,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,16,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,84,0,3
+1683372898100,199,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,16,4,http://localhost:8080/api/v1/store/DEFAULT,68,0,1
+1683372898077,222,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,16,4,http://localhost:8080/api/v1/product/51/price/,222,0,1
+1683372898251,48,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,28,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,48,0,0
+1683372898110,189,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,15,4,http://localhost:8080/api/v1/product/1/price/,79,0,1
+1683372898071,229,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,14,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,229,0,1
+1683372898108,192,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,13,4,http://localhost:8080/api/v1/product/51/price/,192,0,1
+1683372898250,50,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,27,4,http://localhost:8080/actuator/health/ping,50,0,1
+1683372897926,381,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,2,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,381,0,1
+1683372898076,232,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,8,4,http://localhost:8080/actuator/health/ping,232,0,1
+1683372898109,207,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,7,4,http://localhost:8080/api/v1/product/52/price/,53,0,1
+1683372898076,240,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,7,4,http://localhost:8080/api/v1/store/DEFAULT,240,0,1
+1683372897927,389,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,1,4,http://localhost:8080/api/v1/product/1/price/,389,0,0
+1683372898099,217,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,7,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,217,0,4
+1683372898253,64,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,26,4,http://localhost:8080/api/v1/store/DEFAULT,56,0,1
+1683372898091,227,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,227,0,1
+1683372898089,239,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,3,4,http://localhost:8080/api/v1/product/1/price/,239,0,1
+1683372898251,77,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,25,4,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,77,0,0
+1683372898284,102,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,24,5,http://localhost:8080/api/v1/product/1/price/,88,0,3
+1683372897582,45,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,475,965,5,5,null,0,761,33
+1683372897691,45,S01_T01_LaunchApp-00,200,,Thread Group 1-1,text,true,,475,965,1,1,http://localhost:8080/,45,0,33
+1683372898071,317,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,2,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,317,0,1
+1683372898074,342,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,1,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,342,0,3
+1683372898286,134,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,23,4,http://localhost:8080/api/v1/product/51/price/,132,0,1
+1683372898256,164,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,23,4,http://localhost:8080/api/v1/product/52/price/,164,0,2
+1683372898257,164,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,23,4,http://localhost:8080/api/v1/product/51/price/,164,0,0
+1683372898259,162,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,23,4,http://localhost:8080/actuator/health/ping,162,0,1
+1683372898286,135,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,23,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,70,0,2
+1683372898292,129,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,21,4,http://localhost:8080/api/v1/product/51/price/,80,0,1
+1683372898259,162,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,21,4,http://localhost:8080/api/v1/product/1/price/,114,0,1
+1683372898283,144,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,16,4,http://localhost:8080/api/v1/product/52/price/,99,0,1
+1683372898253,189,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,15,5,http://localhost:8080/api/v1/product/50/price/,189,0,1
+1683372898291,157,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,14,5,http://localhost:8080/api/v1/product/50/price/,87,0,2
+1683372898298,154,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,14,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,43,0,1
+1683372898291,159,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,14,5,http://localhost:8080/api/v1/product/52/price/,91,0,1
+1683372898291,151,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,15,5,http://localhost:8080/api/v1/product/50/price/,91,0,3
+1683372898290,165,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,10,5,http://localhost:8080/api/v1/product/51/price/,165,0,1
+1683372898247,213,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,9,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,213,0,1
+1683372898288,172,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,9,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,172,0,1
+1683372898402,84,S01_T01_LaunchApp-04,200,,parallel bzm - Parallel Controller,,true,,533,989,28,5,http://localhost:8080/actuator/health/ping,84,0,1
+1683372898392,108,S01_T01_LaunchApp-09,404,,parallel bzm - Parallel Controller,text,false,,522,1008,27,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,94,0,9
+1683372898413,87,S01_T01_LaunchApp-27,200,,parallel bzm - Parallel Controller,text,true,,529,1024,27,5,http://localhost:8080/api/v1/product/50/price/,63,0,1
+1683372898291,209,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,7,5,http://localhost:8080/api/v1/product/52/price/,209,0,1
+1683372898455,46,S01_T01_LaunchApp-29,200,,parallel bzm - Parallel Controller,text,true,,531,1023,25,5,http://localhost:8080/api/v1/product/1/price/,46,0,1
+1683372898457,44,S01_T01_LaunchApp-30,200,,parallel bzm - Parallel Controller,text,true,,531,1024,25,5,http://localhost:8080/api/v1/product/51/price/,44,0,1
+1683372898286,216,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,6,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,216,0,1
+1683372898445,57,S01_T01_LaunchApp-25,200,,parallel bzm - Parallel Controller,text,true,,531,1023,23,5,http://localhost:8080/api/v1/product/1/price/,57,0,2
+1683372898414,96,S01_T01_LaunchApp-28,200,,parallel bzm - Parallel Controller,text,true,,529,1024,22,5,http://localhost:8080/api/v1/product/50/price/,87,0,0
+1683372898457,53,S01_T01_LaunchApp-26,200,,parallel bzm - Parallel Controller,text,true,,531,1024,22,5,http://localhost:8080/api/v1/product/52/price/,53,0,1
+1683372898420,91,S01_T01_LaunchApp-32,200,,parallel bzm - Parallel Controller,text,true,,531,1024,22,5,http://localhost:8080/api/v1/product/51/price/,80,0,2
+1683372898424,92,S01_T01_LaunchApp-14,200,,parallel bzm - Parallel Controller,text,true,,1163,985,19,5,http://localhost:8080/api/v1/store/DEFAULT,54,0,1
+1683372898251,265,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,265,0,1
+1683372898393,124,S01_T01_LaunchApp-05,200,,parallel bzm - Parallel Controller,text,true,,450,985,18,5,http://localhost:8080/actuator/health/ping,67,0,0
+1683372898400,125,S01_T01_LaunchApp-15,200,,parallel bzm - Parallel Controller,text,true,,1531,1012,17,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,124,0,1
+1683372898289,255,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,4,5,http://localhost:8080/api/v1/product/50/price/,255,0,0
+1683372898414,139,S01_T01_LaunchApp-31,200,,parallel bzm - Parallel Controller,text,true,,531,1024,16,5,http://localhost:8080/api/v1/product/52/price/,124,0,1
+1683372898404,150,S01_T01_LaunchApp-16,200,,parallel bzm - Parallel Controller,text,true,,511,1017,15,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,129,0,1
+1683372898440,114,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,15,5,http://localhost:8080/api/v1/product/1/price/,114,0,1
+1683372898256,298,S01_T01_LaunchApp-21,200,,parallel bzm - Parallel Controller,,true,,533,992,3,5,http://localhost:8080/api/v1/product/1/price/,298,0,2
+1683372898284,272,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,2,5,http://localhost:8080/api/v1/store/DEFAULT,272,0,1
+1683372898425,147,S01_T01_LaunchApp-17,200,,parallel bzm - Parallel Controller,,true,,533,993,13,5,http://localhost:8080/api/v1/product/50/price/,147,0,1
+1683372898397,174,S01_T01_LaunchApp-07,200,,parallel bzm - Parallel Controller,,true,,533,1019,13,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,174,0,1
+1683372898295,281,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,281,0,2
+1683372898391,207,S01_T01_LaunchApp-06,200,,parallel bzm - Parallel Controller,,true,,533,1012,11,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,207,0,3
+1683372898422,179,S01_T01_LaunchApp-10,200,,parallel bzm - Parallel Controller,text,true,,9311,1015,10,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,174,0,1
+1683372898407,196,S01_T01_LaunchApp-24,200,,parallel bzm - Parallel Controller,,true,,533,993,9,5,http://localhost:8080/api/v1/product/52/price/,196,0,4
+1683372898415,200,S01_T01_LaunchApp-11,200,,parallel bzm - Parallel Controller,,true,,533,1016,8,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,200,0,1
+1683372898405,216,S01_T01_LaunchApp-19,200,,parallel bzm - Parallel Controller,,true,,533,993,7,5,http://localhost:8080/api/v1/product/50/price/,216,0,2
+1683372898425,199,S01_T01_LaunchApp-13,200,,parallel bzm - Parallel Controller,,true,,533,1021,6,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,199,0,1
+1683372898429,195,S01_T01_LaunchApp-18,200,,parallel bzm - Parallel Controller,,true,,533,993,6,5,http://localhost:8080/api/v1/product/52/price/,195,0,11
+1683372898405,222,S01_T01_LaunchApp-23,200,,parallel bzm - Parallel Controller,,true,,533,993,4,5,http://localhost:8080/api/v1/product/51/price/,222,0,1
+1683372898441,189,S01_T01_LaunchApp-20,200,,parallel bzm - Parallel Controller,,true,,533,992,3,5,http://localhost:8080/api/v1/product/1/price/,189,0,12
+1683372898400,236,S01_T01_LaunchApp-12,200,,parallel bzm - Parallel Controller,,true,,533,989,2,5,http://localhost:8080/api/v1/store/DEFAULT,236,0,1
+1683372898405,236,S01_T01_LaunchApp-22,200,,parallel bzm - Parallel Controller,,true,,533,993,1,5,http://localhost:8080/api/v1/product/51/price/,236,0,1
+1683372897762,86,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,475,965,5,5,null,0,794,1
+1683372897764,86,S01_T01_LaunchApp-00,200,,Thread Group 1-2,text,true,,475,965,2,2,http://localhost:8080/,86,0,1
+1683372897954,107,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,475,965,5,5,null,0,662,1
+1683372897955,107,S01_T01_LaunchApp-00,200,,Thread Group 1-3,text,true,,475,965,3,3,http://localhost:8080/,107,0,1
+1683372898769,36,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,17,0,1
+1683372898769,37,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,7,5,http://localhost:8080/api/v1/product/1/price/,23,0,1
+1683372898771,38,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,6,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,20,0,1
+1683372898769,44,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,5,5,http://localhost:8080/api/v1/product/1/price/,44,0,1
+1683372898771,48,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,4,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,48,0,1
+1683372898772,54,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,3,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,54,0,0
+1683372898144,89,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,475,965,5,5,null,0,594,1
+1683372898145,89,S01_T01_LaunchApp-00,200,,Thread Group 1-4,text,true,,475,965,4,4,http://localhost:8080/,89,0,1
+1683372898769,65,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,2,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,65,0,1
+1683372898886,12,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,8,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,12,0,0
+1683372898883,44,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,7,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,44,0,1
+1683372898883,46,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,6,5,http://localhost:8080/api/v1/product/1/price/,45,0,1
+1683372898882,50,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,5,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,30,0,1
+1683372898885,64,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,4,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,64,0,1
+1683372898772,181,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,1,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,181,0,0
+1683372898880,75,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,3,5,http://localhost:8080/api/v1/product/1/price/,75,0,2
+1683372898885,73,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,73,0,1
+1683372898889,71,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,1,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,71,0,1
+1683372899005,16,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,16,0,1
+1683372899008,14,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,7,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,13,0,1
+1683372899005,21,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,6,5,http://localhost:8080/api/v1/product/1/price/,20,0,1
+1683372899005,39,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,5,5,http://localhost:8080/api/v1/product/1/price/,39,0,1
+1683372899006,44,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,4,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,44,0,1
+1683372899006,45,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,3,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,45,0,0
+1683372899005,47,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,2,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,47,0,2
+1683372899006,46,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,46,0,1
+1683372899083,10,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,8,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,9,0,1
+1683372898723,272,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,10055,6909,5,5,null,0,104,0
+1683372898723,272,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-3,,true,,10055,6909,5,5,null,0,8,0
+1683372898724,7, /actuator/health/ping ,200,,Thread Group 1-3,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,7,0,0
+1683372898732,5, /actuator/health/ping ,200,,Thread Group 1-3,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372898738,69, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-3,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,69,0,0
+1683372898808,33, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-3,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,33,0,0
+1683372898842,12, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-3,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,10,0,0
+1683372898855,16, /api/v1/products/ ,200,,Thread Group 1-3,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,15,0,0
+1683372898871,61, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-3,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,61,0,0
+1683372898933,32, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-3,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,32,0,0
+1683372898966,20, /api/v1/store/DEFAULT ,200,,Thread Group 1-3,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,20,0,0
+1683372898986,5, /api/v1/content/pages/ ,200,,Thread Group 1-3,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372898991,6, /api/v1/store/DEFAULT ,200,,Thread Group 1-3,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1683372898997,6, /api/v1/category/ ,200,,Thread Group 1-3,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,5,0,0
+1683372899085,16,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,7,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,15,0,1
+1683372899083,28,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,6,5,http://localhost:8080/api/v1/product/1/price/,9,0,1
+1683372899083,41,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,5,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,41,0,1
+1683372899083,44,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,4,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,44,0,1
+1683372899085,45,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,3,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,45,0,1
+1683372899083,50,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,2,5,http://localhost:8080/api/v1/product/1/price/,50,0,1
+1683372899117,34,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,15,5,http://localhost:8080/api/v1/product/1/price/,27,0,1
+1683372899116,35,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,15,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,35,0,1
+1683372899121,30,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,13,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,30,0,1
+1683372899116,37,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,12,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,27,0,1
+1683372899110,48,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,11,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,48,0,1
+1683372899115,51,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,10,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,18,0,1
+1683372899115,51,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,10,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,25,0,1
+1683372899117,49,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,8,5,http://localhost:8080/api/v1/store/DEFAULT,27,0,1
+1683372899110,61,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,7,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,61,0,1
+1683372899110,62,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,7,5,http://localhost:8080/actuator/health/ping,61,0,1
+1683372899085,97,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,1,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,97,0,1
+1683372899121,62,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,62,0,2
+1683372899115,68,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,4,5,http://localhost:8080/api/v1/store/DEFAULT,68,0,1
+1683372899115,76,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,3,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,76,0,1
+1683372899121,71,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,2,5,http://localhost:8080/api/v1/product/1/price/,71,0,1
+1683372899118,74,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,2,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,74,0,2
+1683372899100,6,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,533,989,5,5,null,0,118,0
+1683372899100,6,S01_T03_ClickOnTable-00,200,,Thread Group 1-3,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,6,0,0
+1683372898642,230,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,5,5,null,0,466,0
+1683372898642,230,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,5,5,null,0,5,0
+1683372898642,7, /actuator/health/ping ,200,,Thread Group 1-2,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,7,0,0
+1683372898649,4, /actuator/health/ping ,200,,Thread Group 1-2,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,3,0,0
+1683372898653,26, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-2,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,26,0,0
+1683372898679,28, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-2,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,28,0,0
+1683372898707,12, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-2,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,11,0,0
+1683372898720,11, /api/v1/products/ ,200,,Thread Group 1-2,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,11,0,0
+1683372898732,39, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,578,5,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,39,0,0
+1683372898771,51, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,51,0,0
+1683372898823,29, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,29,0,0
+1683372898853,6, /api/v1/content/pages/ ,200,,Thread Group 1-2,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372898859,9, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,7,0,0
+1683372898869,8, /api/v1/category/ ,200,,Thread Group 1-2,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,7,0,0
+1683372898337,44,S01_T01_LaunchApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,475,965,5,5,null,0,976,1
+1683372898338,44,S01_T01_LaunchApp-00,200,,Thread Group 1-5,text,true,,475,965,5,5,http://localhost:8080/,44,0,1
+1683372899346,11,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,15,5,http://localhost:8080/actuator/health/ping,11,0,1
+1683372899347,21,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,14,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,21,0,1
+1683372899350,18,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,14,5,http://localhost:8080/api/v1/store/DEFAULT,18,0,0
+1683372899347,26,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,12,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,23,0,1
+1683372899347,42,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,11,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,42,0,1
+1683372899349,40,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,11,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,24,0,1
+1683372899350,39,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,11,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,39,0,0
+1683372899346,43,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,11,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,43,0,1
+1683372899351,38,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,9,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,38,0,1
+1683372899349,52,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,6,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,52,0,1
+1683372899352,50,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,5,5,http://localhost:8080/api/v1/product/1/price/,50,0,2
+1683372899350,53,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,4,5,http://localhost:8080/api/v1/store/DEFAULT,53,0,0
+1683372899351,63,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,3,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,63,0,1
+1683372899350,65,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,2,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,65,0,0
+1683372899351,80,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,80,0,1
+1683372899338,5,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,533,989,5,5,null,0,99,0
+1683372899338,5,S01_T03_ClickOnTable-00,200,,Thread Group 1-2,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372898827,253,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,5,5,null,0,378,0
+1683372898827,253,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,5,5,null,0,1,0
+1683372898827,11, /actuator/health/ping ,200,,Thread Group 1-4,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,11,0,0
+1683372898838,7, /actuator/health/ping ,200,,Thread Group 1-4,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372898846,31, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-4,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,31,0,0
+1683372898877,76, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-4,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,76,0,0
+1683372898953,14, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-4,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,13,0,0
+1683372898967,10, /api/v1/products/ ,200,,Thread Group 1-4,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,9,0,0
+1683372898977,21, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,21,0,0
+1683372898998,35, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,35,0,0
+1683372899033,29, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,29,0,0
+1683372899062,6, /api/v1/content/pages/ ,200,,Thread Group 1-4,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372899068,5, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372899073,8, /api/v1/category/ ,200,,Thread Group 1-4,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,7,0,0
+1683372899473,17,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,15,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,16,0,1
+1683372899472,27,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,14,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,25,0,1
+1683372899470,32,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,13,5,http://localhost:8080/actuator/health/ping,31,0,0
+1683372899474,41,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,12,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,37,0,1
+1683372899470,45,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,12,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,45,0,1
+1683372899472,44,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,11,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,44,0,1
+1683372899476,44,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,10,5,http://localhost:8080/api/v1/product/1/price/,44,0,1
+1683372899475,51,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,8,5,http://localhost:8080/api/v1/store/DEFAULT,47,0,1
+1683372899474,54,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,7,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,48,0,2
+1683372899470,58,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,6,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,58,0,0
+1683372899473,58,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,58,0,0
+1683372899472,66,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,4,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,66,0,1
+1683372899470,69,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,3,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,69,0,0
+1683372899472,78,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,2,5,http://localhost:8080/api/v1/store/DEFAULT,78,0,1
+1683372899474,84,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,1,5,http://localhost:8080/api/v1/product/1/price/,84,0,1
+1683372899613,10,S01_T02_OpenTablesTab-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,8,5,http://localhost:8080/api/v1/product/1/price/,10,0,1
+1683372899614,11,S01_T02_OpenTablesTab-17,200,,parallel bzm - Parallel Controller,text,true,,642,1020,7,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,9,0,1
+1683372899612,14,S01_T02_OpenTablesTab-14,200,,parallel bzm - Parallel Controller,text,true,,765,1005,7,5,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,11,0,0
+1683372898388,371,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,10055,6909,5,5,null,0,876,0
+1683372898388,371,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-1,,true,,10055,6909,5,5,null,0,6,0
+1683372898389,32, /actuator/health/ping ,200,,Thread Group 1-1,,true,,533,539,5,4,http://localhost:8080/actuator/health/ping,32,0,0
+1683372898421,65, /actuator/health/ping ,200,,Thread Group 1-1,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,39,0,0
+1683372898487,95, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-1,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,95,0,0
+1683372898582,42, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-1,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,42,0,0
+1683372898624,13, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-1,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,12,0,0
+1683372898637,16, /api/v1/products/ ,200,,Thread Group 1-1,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,15,0,0
+1683372898653,23, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-1,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,23,0,0
+1683372898676,25, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-1,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,25,0,0
+1683372898701,31, /api/v1/store/DEFAULT ,200,,Thread Group 1-1,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,31,0,0
+1683372898733,7, /api/v1/content/pages/ ,200,,Thread Group 1-1,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,7,0,0
+1683372898741,12, /api/v1/store/DEFAULT ,200,,Thread Group 1-1,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,11,0,0
+1683372898754,10, /api/v1/category/ ,200,,Thread Group 1-1,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,10,0,0
+1683372899612,36,S01_T02_OpenTablesTab-12,200,,parallel bzm - Parallel Controller,,true,,533,992,5,3,http://localhost:8080/api/v1/product/1/price/,36,0,1
+1683372899612,36,S01_T02_OpenTablesTab-13,200,,parallel bzm - Parallel Controller,,true,,533,1009,5,3,http://localhost:8080/api/v1/category/50?store=DEFAULT&lang=en,36,0,0
+1683372899617,36,S01_T02_OpenTablesTab-19,404,,parallel bzm - Parallel Controller,text,true,,967,1015,3,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,36,0,1
+1683372899614,47,S01_T02_OpenTablesTab-18,200,,parallel bzm - Parallel Controller,,true,,533,1019,2,5,http://localhost:8080/api/v1/category/50/variants/?store=DEFAULT&lang=en,47,0,1
+1683372899614,48,S01_T02_OpenTablesTab-16,200,,parallel bzm - Parallel Controller,,true,,533,1024,1,5,http://localhost:8080/api/v1/category/50/manufacturers/?store=DEFAULT&lang=en,48,0,1
+1683372899651,32,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,15,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,32,0,1
+1683372899650,38,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,14,5,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,38,0,1
+1683372899657,31,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,14,5,http://localhost:8080/api/v1/product/1/price/,31,0,0
+1683372899655,37,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,12,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,28,0,1
+1683372899654,39,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,11,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,39,0,0
+1683372899656,38,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,10,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,31,0,1
+1683372899649,45,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,9,5,http://localhost:8080/api/v1/store/DEFAULT,44,0,0
+1683372899649,49,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,8,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,49,0,2
+1683372899649,55,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,7,5,http://localhost:8080/actuator/health/ping,34,0,1
+1683372899653,53,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,6,5,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,53,0,1
+1683372899654,61,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,5,5,http://localhost:8080/api/v1/store/DEFAULT,61,0,0
+1683372899653,64,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,4,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,64,0,0
+1683372899224,74,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,5612,4078,5,5,null,0,425,0
+1683372899224,19,S01_T04_AddToCartButton-0,200,,Thread Group 1-3,,true,,533,995,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372899243,21,S01_T04_AddToCartButton-1,201,,Thread Group 1-3,text,true,,2273,1045,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,20,0,0
+1683372899297,20,S01_T04_AddToCartButton-2,200,,Thread Group 1-3,,true,,533,1021,5,5,http://localhost:8080/api/v1/cart/fad44363a7814f54a6d751d76146b42b?lang=en,20,0,0
+1683372899317,14,S01_T04_AddToCartButton-3,200,,Thread Group 1-3,text,true,,2273,1017,5,5,http://localhost:8080/api/v1/cart/fad44363a7814f54a6d751d76146b42b?lang=en,14,0,0
+1683372899655,79,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,3,4,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,79,0,0
+1683372899656,79,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,3,4,http://localhost:8080/api/v1/product/1/price/,79,0,1
+1683372899654,82,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,1,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,82,0,1
+1683372899459,7,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,533,989,4,4,null,0,314,0
+1683372899459,7,S01_T03_ClickOnTable-00,200,,Thread Group 1-4,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,7,0,0
+1683372899635,5,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,533,989,4,4,null,0,229,0
+1683372899636,5,S01_T03_ClickOnTable-00,200,,Thread Group 1-1,,true,,533,989,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372899357,245,S01_T02_OpenTablesTab,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,10055,6909,4,4,null,0,338,0
+1683372899357,245,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-5,,true,,10055,6909,5,5,null,0,7,0
+1683372899358,31, /actuator/health/ping ,200,,Thread Group 1-5,,true,,533,539,5,5,http://localhost:8080/actuator/health/ping,31,0,0
+1683372899389,8, /actuator/health/ping ,200,,Thread Group 1-5,text,true,,450,565,5,5,http://localhost:8080/actuator/health/ping,5,0,0
+1683372899398,33, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-5,,true,,533,586,5,5,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,33,0,0
+1683372899432,19, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-5,,true,,533,562,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,19,0,0
+1683372899452,7, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-5,text,true,,522,588,5,5,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,7,0,0
+1683372899460,22, /api/v1/products/ ,200,,Thread Group 1-5,text,true,,2680,611,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,22,0,0
+1683372899483,69, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-5,,true,,533,578,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,69,0,0
+1683372899552,24, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-5,,true,,533,573,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,24,0,0
+1683372899576,18, /api/v1/store/DEFAULT ,200,,Thread Group 1-5,,true,,533,539,5,5,http://localhost:8080/api/v1/store/DEFAULT,18,0,0
+1683372899594,5, /api/v1/content/pages/ ,200,,Thread Group 1-5,text,true,,511,604,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372899600,4, /api/v1/store/DEFAULT ,200,,Thread Group 1-5,text,true,,1163,565,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1683372899604,5, /api/v1/category/ ,200,,Thread Group 1-5,text,true,,1531,599,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,5,0,0
+1683372899780,66,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,5612,4078,4,4,null,0,98,0
+1683372899780,17,S01_T04_AddToCartButton-0,200,,Thread Group 1-4,,true,,533,995,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,17,0,0
+1683372899798,19,S01_T04_AddToCartButton-1,201,,Thread Group 1-4,text,true,,2273,1045,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,18,0,0
+1683372899817,17,S01_T04_AddToCartButton-2,200,,Thread Group 1-4,,true,,533,1021,4,4,http://localhost:8080/api/v1/cart/34f3fa57e7fd4ef68d1c42a2a0c1ec7a?lang=en,17,0,0
+1683372899835,13,S01_T04_AddToCartButton-3,200,,Thread Group 1-4,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/34f3fa57e7fd4ef68d1c42a2a0c1ec7a?lang=en,13,0,0
+1683372899955,19,S01_T03_ClickOnTable-01,200,,parallel bzm - Parallel Controller,text,true,,450,985,15,4,http://localhost:8080/actuator/health/ping,19,0,1
+1683372899958,17,S01_T03_ClickOnTable-07,200,,parallel bzm - Parallel Controller,text,true,,437,1004,14,4,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,16,0,0
+1683372899956,26,S01_T03_ClickOnTable-05,404,,parallel bzm - Parallel Controller,text,true,,522,1008,13,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,25,0,1
+1683372899964,27,S01_T03_ClickOnTable-12,200,,parallel bzm - Parallel Controller,text,true,,1163,985,12,4,http://localhost:8080/api/v1/store/DEFAULT,23,0,1
+1683372899964,27,S01_T03_ClickOnTable-15,200,,parallel bzm - Parallel Controller,text,true,,531,1023,12,4,http://localhost:8080/api/v1/product/1/price/,26,0,1
+1683372899960,31,S01_T03_ClickOnTable-11,200,,parallel bzm - Parallel Controller,text,true,,511,1024,12,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,31,0,1
+1683372899957,35,S01_T03_ClickOnTable-06,200,,parallel bzm - Parallel Controller,text,true,,2602,1004,9,4,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,29,0,1
+1683372899960,39,S01_T03_ClickOnTable-13,200,,parallel bzm - Parallel Controller,text,true,,1531,1019,8,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,38,0,2
+1683372899955,47,S01_T03_ClickOnTable-03,200,,parallel bzm - Parallel Controller,,true,,533,1008,7,4,http://localhost:8080/api/v1/products/1?lang=en&store=DEFAULT,47,0,1
+1683372899955,52,S01_T03_ClickOnTable-02,200,,parallel bzm - Parallel Controller,,true,,533,1012,6,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,52,0,1
+1683372899955,62,S01_T03_ClickOnTable-04,200,,parallel bzm - Parallel Controller,,true,,533,1008,5,4,http://localhost:8080/api/v1/products/1/reviews?store=DEFAULT,62,0,1
+1683372899960,72,S01_T03_ClickOnTable-14,200,,parallel bzm - Parallel Controller,,true,,533,992,4,4,http://localhost:8080/api/v1/product/1/price/,72,0,1
+1683372899959,78,S01_T03_ClickOnTable-10,200,,parallel bzm - Parallel Controller,,true,,533,1023,3,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,78,0,1
+1683372899958,80,S01_T03_ClickOnTable-08,200,,parallel bzm - Parallel Controller,,true,,533,989,2,4,http://localhost:8080/api/v1/store/DEFAULT,80,0,0
+1683372899957,87,S01_T03_ClickOnTable-09,200,,parallel bzm - Parallel Controller,,true,,533,1028,1,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,87,0,1
+1683372899944,358,S01_T05_ChairsTab,200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-4,,true,,17218,19052,4,4,null,0,7,0
+1683372899944,200,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-4,,true,,10055,6909,4,4,null,0,4,0
+1683372899944,8, /actuator/health/ping ,200,,Thread Group 1-4,,true,,533,539,4,4,http://localhost:8080/actuator/health/ping,8,0,0
+1683372899953,6, /actuator/health/ping ,200,,Thread Group 1-4,text,true,,450,565,4,2,http://localhost:8080/actuator/health/ping,6,0,0
+1683372899960,74, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-4,,true,,533,586,4,4,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,74,0,0
+1683372900035,21, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-4,,true,,533,562,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,21,0,0
+1683372900056,7, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-4,text,true,,522,588,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,7,0,0
+1683372900064,11, /api/v1/products/ ,200,,Thread Group 1-4,text,true,,2680,611,4,4,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,10,0,0
+1683372900075,19, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,578,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,19,0,0
+1683372900094,23, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-4,,true,,533,573,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,23,0,0
+1683372900117,17, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,,true,,533,539,4,4,http://localhost:8080/api/v1/store/DEFAULT,17,0,0
+1683372900134,4, /api/v1/content/pages/ ,200,,Thread Group 1-4,text,true,,511,604,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,4,0,0
+1683372900138,4, /api/v1/store/DEFAULT ,200,,Thread Group 1-4,text,true,,1163,565,4,4,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372900142,6, /api/v1/category/ ,200,,Thread Group 1-4,text,true,,1531,599,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372900148,18,S01_T05_ChairsTab-13,200,,Thread Group 1-4,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,18,0,0
+1683372900166,18,S01_T05_ChairsTab-14,200,,Thread Group 1-4,,true,,533,993,4,4,http://localhost:8080/api/v1/product/51/price/,18,0,0
+1683372900184,17,S01_T05_ChairsTab-15,200,,Thread Group 1-4,,true,,533,1009,4,4,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,17,0,0
+1683372900202,18,S01_T05_ChairsTab-16,200,,Thread Group 1-4,,true,,533,993,4,4,http://localhost:8080/api/v1/product/50/price/,18,0,0
+1683372900220,5,S01_T05_ChairsTab-17,200,,Thread Group 1-4,text,true,,765,1005,4,4,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,5,0,0
+1683372900226,8,S01_T05_ChairsTab-18,200,,Thread Group 1-4,text,true,,531,1024,4,4,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1683372900234,6,S01_T05_ChairsTab-19,200,,Thread Group 1-4,text,true,,531,1024,4,4,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1683372900240,6,S01_T05_ChairsTab-20,200,,Thread Group 1-4,text,true,,529,1024,4,4,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1683372900246,18,S01_T05_ChairsTab-21,200,,Thread Group 1-4,,true,,533,1024,4,4,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,18,0,0
+1683372900264,6,S01_T05_ChairsTab-22,200,,Thread Group 1-4,text,true,,642,1020,4,4,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,5,0,0
+1683372900270,18,S01_T05_ChairsTab-23,200,,Thread Group 1-4,,true,,533,1019,4,4,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,18,0,0
+1683372900289,20,S01_T05_ChairsTab-24,404,,Thread Group 1-4,text,true,,967,1015,4,4,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,20,0,0
+1683372899941,5,S01_T03_ClickOnTable,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,533,989,4,4,null,0,406,0
+1683372899941,5,S01_T03_ClickOnTable-00,200,,Thread Group 1-5,,true,,533,989,4,4,http://localhost:8080/actuator/health/ping,5,0,0
+1683372899442,114,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,5612,4078,4,4,null,0,889,0
+1683372899442,21,S01_T04_AddToCartButton-0,200,,Thread Group 1-2,,true,,533,995,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1683372899464,40,S01_T04_AddToCartButton-1,201,,Thread Group 1-2,text,true,,2273,1045,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,39,0,0
+1683372899505,37,S01_T04_AddToCartButton-2,200,,Thread Group 1-2,,true,,533,1021,5,5,http://localhost:8080/api/v1/cart/bed04049f1a349bcb9c75d801b7aa542?lang=en,37,0,0
+1683372899543,16,S01_T04_AddToCartButton-3,200,,Thread Group 1-2,text,true,,2273,1017,5,5,http://localhost:8080/api/v1/cart/bed04049f1a349bcb9c75d801b7aa542?lang=en,15,0,0
+1683372900309,191,S01_T06_SelectRandomChair,200,"Number of samples in transaction : 16, number of failing samples : 0",Thread Group 1-4,,true,,12017,16107,4,4,null,0,5,0
+1683372900310,5,S01_T06_SelectRandomChair-01,200,,Thread Group 1-4,,true,,533,989,4,4,http://localhost:8080/actuator/health/ping,5,0,0
+1683372900315,4,S01_T06_SelectRandomChair-02,200,,Thread Group 1-4,text,true,,450,985,4,4,http://localhost:8080/actuator/health/ping,3,0,0
+1683372900319,18,S01_T06_SelectRandomChair-03,200,,Thread Group 1-4,,true,,533,1012,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372900337,19,S01_T06_SelectRandomChair-04,200,,Thread Group 1-4,,true,,533,1009,4,4,http://localhost:8080/api/v1/products/52?lang=en&store=DEFAULT,19,0,0
+1683372900356,17,S01_T06_SelectRandomChair-05,200,,Thread Group 1-4,,true,,533,1009,4,4,http://localhost:8080/api/v1/products/52/reviews?store=DEFAULT,17,0,0
+1683372900373,8,S01_T06_SelectRandomChair-06,404,,Thread Group 1-4,text,true,,522,1008,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,7,0,0
+1683372900382,8,S01_T06_SelectRandomChair-07,200,,Thread Group 1-4,text,true,,2608,1005,4,4,http://localhost:8080/api/v1/products/52?lang=en&store=DEFAULT,7,0,0
+1683372900390,7,S01_T06_SelectRandomChair-08,200,,Thread Group 1-4,text,true,,437,1005,4,4,http://localhost:8080/api/v1/products/52/reviews?store=DEFAULT,6,0,0
+1683372900397,19,S01_T06_SelectRandomChair-09,200,,Thread Group 1-4,,true,,533,989,4,4,http://localhost:8080/api/v1/store/DEFAULT,19,0,0
+1683372900416,18,S01_T06_SelectRandomChair-10,200,,Thread Group 1-4,,true,,533,1028,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,18,0,0
+1683372900435,18,S01_T06_SelectRandomChair-11,200,,Thread Group 1-4,,true,,533,1023,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,18,0,0
+1683372900453,5,S01_T06_SelectRandomChair-12,200,,Thread Group 1-4,text,true,,1163,985,4,4,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372900458,6,S01_T06_SelectRandomChair-13,200,,Thread Group 1-4,text,true,,511,1024,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,6,0,0
+1683372900465,6,S01_T06_SelectRandomChair-14,200,,Thread Group 1-4,text,true,,1531,1019,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372900471,24,S01_T06_SelectRandomChair-15,200,,Thread Group 1-4,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,24,0,0
+1683372900496,9,S01_T06_SelectRandomChair-16,200,,Thread Group 1-4,text,true,,531,1024,4,4,http://localhost:8080/api/v1/product/52/price/,8,0,0
+1683372900506,95,S01_T07_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,5612,4078,4,4,null,0,3,0
+1683372900506,31,S01_T07_AddToCartButton-0,200,,Thread Group 1-4,,true,,533,995,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,31,0,0
+1683372900538,24,S01_T07_AddToCartButton-1,201,,Thread Group 1-4,text,true,,2273,1045,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,24,0,0
+1683372900563,23,S01_T07_AddToCartButton-2,200,,Thread Group 1-4,,true,,533,1021,4,4,http://localhost:8080/api/v1/cart/80b62775f615412783cce75c2b2d7fe8?lang=en,23,0,0
+1683372900587,17,S01_T07_AddToCartButton-3,200,,Thread Group 1-4,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/80b62775f615412783cce75c2b2d7fe8?lang=en,16,0,0
+1683372899869,67,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,5612,4078,4,4,null,0,876,0
+1683372899869,20,S01_T04_AddToCartButton-0,200,,Thread Group 1-1,,true,,533,995,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,20,0,0
+1683372899889,16,S01_T04_AddToCartButton-1,201,,Thread Group 1-1,text,true,,2273,1045,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,16,0,0
+1683372899906,18,S01_T04_AddToCartButton-2,200,,Thread Group 1-1,,true,,533,1021,4,4,http://localhost:8080/api/v1/cart/40f94d9586fb43f2b683906d886d8efe?lang=en,18,0,0
+1683372900445,356,S01_T05_ChairsTab,200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-2,,true,,17218,19052,4,4,null,0,11,0
+1683372899924,13,S01_T04_AddToCartButton-3,200,,Thread Group 1-1,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/40f94d9586fb43f2b683906d886d8efe?lang=en,12,0,0
+1683372900445,164,Transaction Controller,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-2,,true,,10055,6909,4,4,null,0,6,0
+1683372900445,5, /actuator/health/ping ,200,,Thread Group 1-2,,true,,533,539,4,4,http://localhost:8080/actuator/health/ping,5,0,0
+1683372900450,4, /actuator/health/ping ,200,,Thread Group 1-2,text,true,,450,565,4,4,http://localhost:8080/actuator/health/ping,3,0,0
+1683372900454,23, /api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50 ,200,,Thread Group 1-2,,true,,533,586,4,4,http://localhost:8080/api/v1/products/?&store=DEFAULT&lang=en&page=0&count=15&category=50,23,0,0
+1683372900478,18, /api/v1/content/boxes/headerMessage/?lang=en ,200,,Thread Group 1-2,,true,,533,562,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,18,0,0
+1683372900497,7, /api/v1/content/boxes/headerMessage/ ,404,,Thread Group 1-2,text,true,,522,588,4,4,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,6,0,0
+1683372900505,19, /api/v1/products/ ,200,,Thread Group 1-2,text,true,,2680,611,4,4,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15&category=50,19,0,0
+1683372900524,21, /api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,578,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,21,0,0
+1683372900546,22, /api/v1/category/?count=20&page=0&store=DEFAULT&lang=en ,200,,Thread Group 1-2,,true,,533,573,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,22,0,0
+1683372900569,27, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,,true,,533,539,4,4,http://localhost:8080/api/v1/store/DEFAULT,27,0,0
+1683372900597,6, /api/v1/content/pages/ ,200,,Thread Group 1-2,text,true,,511,604,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,5,0,0
+1683372900603,5, /api/v1/store/DEFAULT ,200,,Thread Group 1-2,text,true,,1163,565,4,4,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1683372900608,7, /api/v1/category/ ,200,,Thread Group 1-2,text,true,,1531,599,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372900615,23,S01_T05_ChairsTab-13,200,,Thread Group 1-2,,true,,533,993,4,4,http://localhost:8080/api/v1/product/52/price/,23,0,0
+1683372900638,19,S01_T05_ChairsTab-14,200,,Thread Group 1-2,,true,,533,993,4,4,http://localhost:8080/api/v1/product/51/price/,19,0,0
+1683372900658,22,S01_T05_ChairsTab-15,200,,Thread Group 1-2,,true,,533,1009,4,4,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,22,0,0
+1683372900680,28,S01_T05_ChairsTab-16,200,,Thread Group 1-2,,true,,533,993,4,4,http://localhost:8080/api/v1/product/50/price/,28,0,0
+1683372900709,8,S01_T05_ChairsTab-17,200,,Thread Group 1-2,text,true,,765,1005,4,4,http://localhost:8080/api/v1/category/51?store=DEFAULT&lang=en,7,0,0
+1683372900717,10,S01_T05_ChairsTab-18,200,,Thread Group 1-2,text,true,,531,1024,4,4,http://localhost:8080/api/v1/product/52/price/,9,0,0
+1683372900728,7,S01_T05_ChairsTab-19,200,,Thread Group 1-2,text,true,,531,1024,4,4,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1683372900735,9,S01_T05_ChairsTab-20,200,,Thread Group 1-2,text,true,,529,1024,4,4,http://localhost:8080/api/v1/product/50/price/,8,0,0
+1683372900745,17,S01_T05_ChairsTab-21,200,,Thread Group 1-2,,true,,533,1024,4,4,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,17,0,0
+1683372900762,6,S01_T05_ChairsTab-22,200,,Thread Group 1-2,text,true,,642,1020,4,4,http://localhost:8080/api/v1/category/51/manufacturers/?store=DEFAULT&lang=en,6,0,0
+1683372900768,24,S01_T05_ChairsTab-23,200,,Thread Group 1-2,,true,,533,1019,4,4,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,24,0,0
+1683372900793,19,S01_T05_ChairsTab-24,404,,Thread Group 1-2,text,true,,967,1015,4,4,http://localhost:8080/api/v1/category/51/variants/?store=DEFAULT&lang=en,19,0,0
+1683372900352,73,S01_T04_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,5612,4078,3,3,null,0,468,0
+1683372900352,19,S01_T04_AddToCartButton-0,200,,Thread Group 1-5,,true,,533,995,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372900371,21,S01_T04_AddToCartButton-1,201,,Thread Group 1-5,text,true,,2273,1045,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,20,0,0
+1683372900393,20,S01_T04_AddToCartButton-2,200,,Thread Group 1-5,,true,,533,1021,4,4,http://localhost:8080/api/v1/cart/6e37c480286f483dbe1968aa48b5da62?lang=en,20,0,0
+1683372900413,13,S01_T04_AddToCartButton-3,200,,Thread Group 1-5,text,true,,2273,1017,4,4,http://localhost:8080/api/v1/cart/6e37c480286f483dbe1968aa48b5da62?lang=en,13,0,0
+1683372900813,208,S01_T06_SelectRandomChair,200,"Number of samples in transaction : 16, number of failing samples : 0",Thread Group 1-2,,true,,12061,16107,1,1,null,0,4,0
+1683372900813,7,S01_T06_SelectRandomChair-01,200,,Thread Group 1-2,,true,,533,989,3,3,http://localhost:8080/actuator/health/ping,7,0,0
+1683372900820,5,S01_T06_SelectRandomChair-02,200,,Thread Group 1-2,text,true,,450,985,3,3,http://localhost:8080/actuator/health/ping,5,0,0
+1683372900825,25,S01_T06_SelectRandomChair-03,200,,Thread Group 1-2,,true,,533,1012,3,3,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,25,0,0
+1683372900850,20,S01_T06_SelectRandomChair-04,200,,Thread Group 1-2,,true,,533,1009,3,3,http://localhost:8080/api/v1/products/50?lang=en&store=DEFAULT,20,0,0
+1683372900870,21,S01_T06_SelectRandomChair-05,200,,Thread Group 1-2,,true,,533,1009,3,3,http://localhost:8080/api/v1/products/50/reviews?store=DEFAULT,21,0,0
+1683372900891,10,S01_T06_SelectRandomChair-06,404,,Thread Group 1-2,text,true,,522,1008,2,2,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,9,0,0
+1683372900901,8,S01_T06_SelectRandomChair-07,200,,Thread Group 1-2,text,true,,2654,1005,2,2,http://localhost:8080/api/v1/products/50?lang=en&store=DEFAULT,7,0,0
+1683372900909,6,S01_T06_SelectRandomChair-08,200,,Thread Group 1-2,text,true,,437,1005,2,2,http://localhost:8080/api/v1/products/50/reviews?store=DEFAULT,6,0,0
+1683372900916,21,S01_T06_SelectRandomChair-09,200,,Thread Group 1-2,,true,,533,989,2,2,http://localhost:8080/api/v1/store/DEFAULT,21,0,0
+1683372900938,20,S01_T06_SelectRandomChair-10,200,,Thread Group 1-2,,true,,533,1028,2,2,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,20,0,0
+1683372900959,21,S01_T06_SelectRandomChair-11,200,,Thread Group 1-2,,true,,533,1023,2,2,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,21,0,0
+1683372900981,6,S01_T06_SelectRandomChair-12,200,,Thread Group 1-2,text,true,,1163,985,1,1,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1683372900987,5,S01_T06_SelectRandomChair-13,200,,Thread Group 1-2,text,true,,511,1024,1,1,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,4,0,0
+1683372900992,6,S01_T06_SelectRandomChair-14,200,,Thread Group 1-2,text,true,,1531,1019,1,1,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,6,0,0
+1683372900998,21,S01_T06_SelectRandomChair-15,200,,Thread Group 1-2,,true,,533,993,1,1,http://localhost:8080/api/v1/product/50/price/,21,0,0
+1683372901019,6,S01_T06_SelectRandomChair-16,200,,Thread Group 1-2,text,true,,529,1024,1,1,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1683372901026,75,S01_T07_AddToCartButton,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,5612,4078,1,1,null,0,0,0
+1683372901026,22,S01_T07_AddToCartButton-0,200,,Thread Group 1-2,,true,,533,995,1,1,http://localhost:8080/api/v1/cart/?store=DEFAULT,22,0,0
+1683372901048,20,S01_T07_AddToCartButton-1,201,,Thread Group 1-2,text,true,,2273,1045,1,1,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1683372901068,21,S01_T07_AddToCartButton-2,200,,Thread Group 1-2,,true,,533,1021,1,1,http://localhost:8080/api/v1/cart/db745ba5e37844aebd4ceb3b3a51efc6?lang=en,21,0,0
+1683372901089,12,S01_T07_AddToCartButton-3,200,,Thread Group 1-2,text,true,,2273,1017,1,1,http://localhost:8080/api/v1/cart/db745ba5e37844aebd4ceb3b3a51efc6?lang=en,11,0,0
+1683372901137,1585,S01_T08_CartIcon-->Checkout,404,"Number of samples in transaction : 28, number of failing samples : 7",Thread Group 1-2,,false,,51082,28128,1,1,null,0,9,941
+1683372901137,5,S01_T08_CartIcon-->Checkout-00,200,,Thread Group 1-2,,true,,533,989,1,1,http://localhost:8080/actuator/health/ping,5,0,0
+1683372901142,5,S01_T08_CartIcon-->Checkout-01,200,,Thread Group 1-2,,true,,533,1014,1,1,http://localhost:8080/api/v1/shipping/country?store=DEFAULT&lang=en,5,0,0
+1683372901147,27,S01_T08_CartIcon-->Checkout-02,200,,Thread Group 1-2,,true,,533,1012,1,1,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,27,0,0
+1683372901175,18,S01_T08_CartIcon-->Checkout-03,200,,Thread Group 1-2,,true,,533,1027,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d?store=DEFAULT,18,0,0
+1683372901193,5,S01_T08_CartIcon-->Checkout-04,200,,Thread Group 1-2,text,true,,450,985,1,1,http://localhost:8080/actuator/health/ping,4,0,0
+1683372901198,19,S01_T08_CartIcon-->Checkout-05,200,,Thread Group 1-2,,true,,533,988,1,1,http://localhost:8080/api/v1/zones/?code=,19,0,0
+1683372901218,7,S01_T08_CartIcon-->Checkout-06,404,,Thread Group 1-2,text,true,,522,1008,1,1,http://localhost:8080/api/v1/content/boxes/headerMessage/?lang=en,6,0,0
+1683372901225,25,S01_T08_CartIcon-->Checkout-07,200,,Thread Group 1-2,,true,,533,983,1,1,http://localhost:8080/api/v1/config/,25,0,0
+1683372901250,21,S01_T08_CartIcon-->Checkout-08,200,,Thread Group 1-2,,true,,533,1020,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/total/,21,0,0
+1683372901271,19,S01_T08_CartIcon-->Checkout-09,200,,Thread Group 1-2,,true,,533,988,1,1,http://localhost:8080/api/v1/zones/?code=,19,0,0
+1683372901290,20,S01_T08_CartIcon-->Checkout-10,200,,Thread Group 1-2,,true,,533,1022,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/shipping,20,0,0
+1683372901311,4,S01_T08_CartIcon-->Checkout-11,200,,Thread Group 1-2,text,true,,437,984,1,1,http://localhost:8080/api/v1/zones/?code=,4,0,0
+1683372901316,17,S01_T08_CartIcon-->Checkout-12,404,,Thread Group 1-2,text,false,,878,1023,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d?store=DEFAULT,17,0,0
+1683372901333,5,S01_T08_CartIcon-->Checkout-13,200,,Thread Group 1-2,text,true,,437,984,1,1,http://localhost:8080/api/v1/zones/?code=,4,0,0
+1683372901338,10,S01_T08_CartIcon-->Checkout-14,200,,Thread Group 1-2,text,true,,724,979,1,1,http://localhost:8080/api/v1/config/,9,0,0
+1683372901348,22,S01_T08_CartIcon-->Checkout-15,200,,Thread Group 1-2,,true,,533,989,1,1,http://localhost:8080/api/v1/store/DEFAULT,22,0,0
+1683372901370,18,S01_T08_CartIcon-->Checkout-16,404,,Thread Group 1-2,text,false,,878,1016,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/total/,18,0,0
+1683372901388,8,S01_T08_CartIcon-->Checkout-17,200,,Thread Group 1-2,text,true,,35609,1010,1,1,http://localhost:8080/api/v1/shipping/country?store=DEFAULT&lang=en,8,0,0
+1683372901396,6,S01_T08_CartIcon-->Checkout-18,200,,Thread Group 1-2,text,true,,1163,985,1,1,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1683372901402,19,S01_T08_CartIcon-->Checkout-19,200,,Thread Group 1-2,,true,,533,1028,1,1,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,19,0,0
+1683372901421,18,S01_T08_CartIcon-->Checkout-20,200,,Thread Group 1-2,,true,,533,1023,1,1,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,18,0,0
+1683372901439,16,S01_T08_CartIcon-->Checkout-21,404,,Thread Group 1-2,text,false,,878,1040,1,1,http://localhost:8080/api/v1/cart/75ea6907a8804d3194672239ada35e0d/shipping,16,0,0
+1683372901455,5,S01_T08_CartIcon-->Checkout-22,200,,Thread Group 1-2,text,true,,511,1024,1,1,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=DEFAULT&lang=en,4,0,0
+1683372901460,6,S01_T08_CartIcon-->Checkout-23,200,,Thread Group 1-2,text,true,,1531,1019,1,1,http://localhost:8080/api/v1/category/?count=20&page=0&store=DEFAULT&lang=en,5,0,0
+1683372901467,714,S01_T08_CartIcon-->Checkout-24,400,Bad Request,Thread Group 1-2,text,false,,179,1003,1,1,https://maps.googleapis.com/maps/api/js?key=&libraries=places,712,0,586
+1683372902183,223,S01_T08_CartIcon-->Checkout-25,400,Bad Request,Thread Group 1-2,text,false,,155,966,1,1,https://js.stripe.com/v3,223,0,191
+1683372902407,201,S01_T08_CartIcon-->Checkout-26,400,Bad Request,Thread Group 1-2,text,false,,179,1007,1,1,https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true,200,0,79
+1683372902609,122,S01_T08_CartIcon-->Checkout-27,400,Bad Request,Thread Group 1-2,text,false,,155,1012,1,1,https://js.stripe.com/v3/m-outer-93afeeb17bc37e711759584dbfc50d47.html,121,0,85
